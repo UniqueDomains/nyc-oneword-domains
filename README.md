@@ -1,22 +1,22 @@
-# Available .NYC One-Word Domains (5,621,926)
+# Available .NYC One-Word Domains (8,215)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C219%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C926%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C216%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C215%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .nyc one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .nyc one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,219-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,926 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,219 rows · **Live catalog:** 5,621,926 domains
+**Public extract:** 8,216 rows · **Live catalog:** 8,215 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/nyc`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .NYC one-word domain c
 
 ### Files
 
-- `nyc.csv` — public CSV extract (8,219 rows)
-- `nyc.json` — public JSON extract (8,219 rows)
+- `nyc.csv` — public CSV extract (8,216 rows)
+- `nyc.json` — public JSON extract (8,216 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,13 +67,13 @@ print(df.head())
 | seventeen.nyc | available | $43.98    | —             | 84             | 62     | 9      | namecheap                                                 |
 | rocky.nyc     | resell    | —         | —             | 64             | 99     | 5      | Hosting Concepts B.V. d/b/a Registrar.eu                  |
 | easy.nyc      | premium   | $1,250    | $46.99        | 128            | 68     | 4      | name.com                                                  |
-| genius.nyc    | available | $43.98    | —             | 98             | 47     | 6      | namecheap                                                 |
+| genius.nyc    | available | $43.98    | —             | 98             | 45     | 6      | namecheap                                                 |
 | prime.nyc     | resell    | —         | —             | 76             | 82     | 5      | Hello Internet Corp.                                      |
 | business.nyc  | premium   | $6,500    | $32.50        | 100            | 53     | 8      | namecheap                                                 |
-| goon.nyc      | available | $43.98    | —             | 80             | 36     | 5      | namecheap                                                 |
+| terminal.nyc  | available | $43.98    | —             | 104            | 35     | 8      | namecheap                                                 |
 | affinity.nyc  | resell    | —         | —             | 74             | 81     | 8      | Blue Razor Domains, LLC                                   |
 | true.nyc      | premium   | $1,250    | $46.99        | 86             | 52     | 4      | name.com                                                  |
-| terminal.nyc  | available | $43.98    | —             | 104            | 35     | 8      | namecheap                                                 |
+| goon.nyc      | available | $43.98    | —             | 80             | 35     | 5      | namecheap                                                 |
 | kick.nyc      | resell    | —         | —             | 98             | 80     | 4      | Hello Internet Corp.                                      |
 | game.nyc      | premium   | $3,125    | $46.99        | 120            | 50     | 4      | name.com                                                  |
 | hidden.nyc    | available | $43.98    | —             | 65             | 34     | 6      | namecheap                                                 |
@@ -81,8 +81,8 @@ print(df.head())
 | air.nyc       | premium   | $1,300    | $32.50        | 84             | 49     | 3      | namecheap                                                 |
 | nimble.nyc    | available | $43.98    | —             | 94             | 33     | 6      | namecheap                                                 |
 | boss.nyc      | resell    | —         | —             | 76             | 73     | 4      | Hello Internet Corp.                                      |
-| gold.nyc      | premium   | $6,500    | $32.50        | 72             | 49     | 4      | namecheap                                                 |
-| able.nyc      | available | $43.98    | —             | 80             | 33     | 4      | namecheap                                                 |
+| simple.nyc    | premium   | $625      | $46.99        | 128            | 48     | 6      | name.com                                                  |
+| able.nyc      | available | $43.98    | —             | 80             | 32     | 4      | namecheap                                                 |
 | wise.nyc      | resell    | —         | —             | 98             | 72     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,219-row public sample | 5,621,926 live domains                           |
+| 8,216-row public sample | 8,215 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

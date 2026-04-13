@@ -78,10 +78,10 @@ print(df.head())
 | game.nyc      | premium   | $3,125    | $46.99        | 120            | 50     | 4      | name.com                                                  |
 | hidden.nyc    | available | $43.98    | —             | 65             | 34     | 6      | namecheap                                                 |
 | polo.nyc      | resell    | —         | —             | 76             | 80     | 4      | Rabbitsfoot.com LLC d/b/a Oxygen.nyc                      |
-| air.nyc       | premium   | $1,300    | $32.50        | 84             | 49     | 3      | namecheap                                                 |
+| simple.nyc    | premium   | $625      | $46.99        | 128            | 49     | 6      | name.com                                                  |
 | nimble.nyc    | available | $43.98    | —             | 94             | 33     | 6      | namecheap                                                 |
 | boss.nyc      | resell    | —         | —             | 76             | 73     | 4      | Hello Internet Corp.                                      |
-| simple.nyc    | premium   | $625      | $46.99        | 128            | 48     | 6      | name.com                                                  |
+| air.nyc       | premium   | $1,300    | $32.50        | 84             | 49     | 3      | namecheap                                                 |
 | able.nyc      | available | $43.98    | —             | 80             | 32     | 4      | namecheap                                                 |
 | wise.nyc      | resell    | —         | —             | 98             | 72     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 

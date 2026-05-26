@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .nyc one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,916 domains · **Median ask:** $193.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/nyc`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | traders.nyc       | resell    | —         | —             | 60             | 26     | 7      | Spaceship, Inc.                                           |
 | quotes.nyc        | premium   | $3,125    | —             | 58             | 29     | 6      | name.com                                                  |
 | trades.nyc        | available | $31.99    | $31.99        | 71             | 26     | 6      | namesilo                                                  |
-| comics.nyc        | resell    | —         | —             | 68             | 24     | 6      | GoDaddy.com, LLC                                          |
+| comics.nyc        | resell    | —         | —             | 68             | 23     | 6      | GoDaddy.com, LLC                                          |
 | gems.nyc          | premium   | $3,125    | —             | 70             | 28     | 4      | name.com                                                  |
 | has.nyc           | available | $43.98    | —             | 60             | 26     | 3      | namecheap                                                 |
 | herbs.nyc         | resell    | —         | —             | 62             | 22     | 5      | Hello Internet Corp.                                      |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

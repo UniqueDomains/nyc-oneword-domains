@@ -74,7 +74,7 @@ print(df.head())
 | rewards.nyc       | resell    | —         | —             | 62             | 30     | 7      | Hello Internet Corp.                                      |
 | lets.nyc          | premium   | $625      | —             | 77             | 39     | 4      | name.com                                                  |
 | teams.nyc         | available | $43.98    | —             | 62             | 32     | 5      | namecheap                                                 |
-| traders.nyc       | resell    | —         | —             | 60             | 26     | 7      | Spaceship, Inc.                                           |
+| traders.nyc       | resell    | —         | —             | 60             | 25     | 7      | Spaceship, Inc.                                           |
 | quotes.nyc        | premium   | $3,125    | —             | 58             | 29     | 6      | name.com                                                  |
 | trades.nyc        | available | $31.99    | $31.99        | 71             | 26     | 6      | namesilo                                                  |
 | comics.nyc        | resell    | —         | —             | 68             | 23     | 6      | GoDaddy.com, LLC                                          |

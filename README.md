@@ -1,10 +1,10 @@
-# Available .NYC One-Word Domains (10,916)
+# Available .NYC One-Word Domains (10,917)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C916%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C917%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .nyc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,916 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,917 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,916 domains · **Median ask:** $193.68 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,917 domains · **Median ask:** $235.39 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/nyc`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/nyc`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .NYC one-word domain c
 
 ### Files
 
-- `nyc.csv` — public CSV extract (1,000 rows)
-- `nyc.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `nyc.csv`, public CSV extract (1,000 rows)
+- `nyc.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| keepthechange.nyc | available | $43.98    | —             | 46             | 59     | 15     | namecheap                                                 |
-| justin.nyc        | resell    | —         | —             | 58             | 38     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| agents.nyc        | premium   | $6,250    | —             | 56             | 50     | 6      | name.com                                                  |
-| skills.nyc        | available | $43.98    | —             | 58             | 47     | 6      | namecheap                                                 |
-| tokens.nyc        | resell    | —         | —             | 51             | 36     | 6      | GoDaddy.com, LLC                                          |
-| Tools.nyc         | premium   | $3,500    | $35           | 56             | 40     | 5      | namecheap                                                 |
-| spectra.nyc       | available | $43.98    | —             | 62             | 34     | 7      | namecheap                                                 |
-| rewards.nyc       | resell    | —         | —             | 62             | 30     | 7      | Hello Internet Corp.                                      |
-| lets.nyc          | premium   | $625      | —             | 77             | 39     | 4      | name.com                                                  |
-| teams.nyc         | available | $43.98    | —             | 62             | 32     | 5      | namecheap                                                 |
-| traders.nyc       | resell    | —         | —             | 60             | 25     | 7      | Spaceship, Inc.                                           |
-| quotes.nyc        | premium   | $3,125    | —             | 58             | 29     | 6      | name.com                                                  |
-| trades.nyc        | available | $31.99    | $31.99        | 71             | 26     | 6      | namesilo                                                  |
-| comics.nyc        | resell    | —         | —             | 68             | 23     | 6      | GoDaddy.com, LLC                                          |
-| gems.nyc          | premium   | $3,125    | —             | 70             | 28     | 4      | name.com                                                  |
-| has.nyc           | available | $43.98    | —             | 60             | 26     | 3      | namecheap                                                 |
-| herbs.nyc         | resell    | —         | —             | 62             | 22     | 5      | Hello Internet Corp.                                      |
-| tips.nyc          | premium   | $3,125    | —             | 80             | 26     | 4      | name.com                                                  |
-| whats.nyc         | available | $31.99    | $31.99        | 58             | 24     | 5      | namesilo                                                  |
-| designs.nyc       | resell    | —         | —             | 72             | 21     | 7      | Rabbitsfoot.com LLC d/b/a Oxygen.nyc                      |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| ahuh.nyc | available | $31.99    | $31.99        | high           | low    | 4      | namesilo             |
+| buy.nyc  | resell    | —         | —             | high           | medium | 3      | Hello Internet Corp. |
+| bow.nyc  | premium   | $1,107    | $29.50        | high           | low    | 3      | namesilo             |
+| avon.nyc | available | $31.99    | $31.99        | high           | low    | 4      | namesilo             |
+| dip.nyc  | resell    | —         | —             | high           | low    | 3      | Hello Internet Corp. |
+| CNN.nyc  | premium   | $625      | —             | high           | low    | 3      | name.com             |
+| brow.nyc | available | $43.98    | —             | medium         | low    | 4      | namecheap            |
+| eye.nyc  | resell    | —         | —             | medium         | low    | 3      | Hello Internet Corp. |
+| coy.nyc  | premium   | $625      | $46.99        | medium         | low    | 3      | name.com             |
+| corn.nyc | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
+| iii.nyc  | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC     |
+| cue.nyc  | premium   | $625      | —             | medium         | low    | 3      | name.com             |
+| flee.nyc | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
+| bite.nyc | resell    | —         | —             | high           | low    | 4      | Hello Internet Corp. |
+| don.nyc  | premium   | $625      | —             | high           | low    | 3      | name.com             |
+| flew.nyc | available | $31.99    | $31.99        | high           | low    | 4      | namesilo             |
+| done.nyc | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC     |
+| gag.nyc  | premium   | $625      | —             | high           | low    | 3      | name.com             |
+| flop.nyc | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
+| door.nyc | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,916 live domains                        |
+| 1,000-row public sample | 10,917 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .nyc extension. That makes this set most relevant for buyers who want a clear New York signal rather than broad global positioning. The range includes direct keywords, abstract words, and stronger brandables such as watch.nyc, warp.nyc, fond.nyc, and musthave.nyc. When comparing these domains, start with how naturally the word fits a city-based brand, local media concept, neighborhood service, event business, or community project. Then weigh memorability, spelling clarity, and how exposed the term may be to trademark conflict. With a median ask of 193.68, pricing is relatively accessible, but quality differences inside the set will still matter more than headline price alone.
+This set of one-word .nyc domain names totals 10,917 entries, with a median ask near $235. The names lean toward everyday, wellness, and community vocabulary — words like counselling, appreciation, and keepfit — giving them a friendly, ownable feel for NYC-facing brands. For investors, this .nyc pool offers volume at a low individual entry cost, useful for building a diversified position. For founders, the .nyc extension signals local relevance, and single-word domains here are easy to remember and pitch. When comparing names in this list, weigh dictionary-word clarity, renewal cost, and how directly the word maps to the intended brand or service.
 
-- Prioritize words that fit a clear New York use case
-- Short, common words usually carry stronger recall
-- Check trademark exposure on exact-match commercial terms
-- Judge price against clarity, locality, and brand range
+- 10,917 one-word .nyc domain names in this selection
+- Median ask near $235 across the set
+- Everyday, wellness & community-style vocabulary
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

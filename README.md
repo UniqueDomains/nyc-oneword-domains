@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .nyc one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,555 domains · **Median ask:** $142.03 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/nyc`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| half.nyc    | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                                  |
-| great.nyc   | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| off.nyc     | premium   | $1,107    | $29.50        | high           | low    | 3      | namesilo                                                  |
-| brief.nyc   | available | $31.99    | $31.99        | high           | low    | 5      | namesilo                                                  |
-| perfect.nyc | premium   | $1,107    | $29.50        | high           | low    | 7      | namesilo                                                  |
-| special.nyc | premium   | $625      | —             | high           | low    | 7      | name.com                                                  |
-| model.nyc   | premium   | $1,107    | $29.50        | high           | low    | 5      | namesilo                                                  |
-| ague.nyc    | available | $31.99    | $31.99        | low            | low    | 4      | namesilo                                                  |
-| buy.nyc     | resell    | —         | —             | medium         | medium | 3      | Hello Internet Corp.                                      |
-| bow.nyc     | premium   | $1,107    | $29.50        | high           | low    | 3      | namesilo                                                  |
-| ahuh.nyc    | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                                  |
-| dip.nyc     | resell    | —         | —             | high           | low    | 3      | Hello Internet Corp.                                      |
-| clv.nyc     | premium   | $625      | $46.99        | low            | low    | 3      | name.com                                                  |
-| anal.nyc    | available | $31.99    | $31.99        | low            | low    | 4      | namesilo                                                  |
-| eye.nyc     | resell    | —         | —             | medium         | low    | 3      | Hello Internet Corp.                                      |
-| CNN.nyc     | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| arum.nyc    | available | $6.98     | $43.98        | low            | low    | 4      | namecheap                                                 |
-| iii.nyc     | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC                                          |
-| coy.nyc     | premium   | $625      | $46.99        | medium         | low    | 3      | name.com                                                  |
-| avon.nyc    | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                                  |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| ague.nyc | available | $31.99    | $31.99        | low            | low    | 4      | namesilo             |
+| buy.nyc  | resell    | —         | —             | medium         | medium | 3      | Hello Internet Corp. |
+| bow.nyc  | premium   | $1,107    | $29.50        | high           | low    | 3      | namesilo             |
+| ahuh.nyc | available | $31.99    | $31.99        | high           | low    | 4      | namesilo             |
+| dip.nyc  | resell    | —         | —             | high           | low    | 3      | Hello Internet Corp. |
+| clv.nyc  | premium   | $625      | $46.99        | low            | low    | 3      | name.com             |
+| anal.nyc | available | $31.99    | $31.99        | low            | low    | 4      | namesilo             |
+| eye.nyc  | resell    | —         | —             | medium         | low    | 3      | Hello Internet Corp. |
+| CNN.nyc  | premium   | $625      | —             | high           | low    | 3      | name.com             |
+| arum.nyc | available | $6.98     | $43.98        | low            | low    | 4      | namecheap            |
+| iii.nyc  | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC     |
+| coy.nyc  | premium   | $625      | $46.99        | medium         | low    | 3      | name.com             |
+| avon.nyc | available | $31.99    | $31.99        | high           | low    | 4      | namesilo             |
+| bite.nyc | resell    | —         | —             | high           | low    | 4      | Hello Internet Corp. |
+| cue.nyc  | premium   | $625      | —             | medium         | low    | 3      | name.com             |
+| brow.nyc | available | $43.98    | —             | medium         | low    | 4      | namecheap            |
+| done.nyc | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC     |
+| don.nyc  | premium   | $625      | —             | high           | low    | 3      | name.com             |
+| corn.nyc | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo             |
+| door.nyc | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

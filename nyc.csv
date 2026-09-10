@@ -407,7 +407,7 @@ b7d45b64-35e6-4722-87bb-bd92cc46d4cc,estival.nyc,available,31.99,31.99,low,low,7
 eddaa7bd-2623-437b-9d46-af1729c88984,impression.nyc,resell,,,high,low,10,"CSC Corporate Domains, Inc.",08/10/2014 15:38,07/10/2026 23:59
 87749086-1de9-4da2-92be-4d42fb7e465e,endowment.nyc,available,31.99,31.99,high,low,9,namesilo,,
 25effc0d-c3c4-48d0-8fe8-4e196272b422,advert.nyc,available,31.99,31.99,high,low,6,namesilo,,
-f3535e0e-32ca-4997-92c6-b8704ef17db3,toobad.nyc,available,31.99,31.99,low,low,7,namesilo,,
+f3535e0e-32ca-4997-92c6-b8704ef17db3,toobad.nyc,available,31.99,31.99,medium,medium,7,namesilo,,
 89d1c401-c7c4-42b5-b913-e442827c7efa,voiceless.nyc,available,6.98,43.98,low,low,9,namecheap,,
 325db2fc-4726-49ee-98c2-cd824f2aa91b,adjustive.nyc,available,31.99,31.99,low,low,9,namesilo,,
 ce2517a1-27d1-4dd1-98d9-50f3ee000b39,universally.nyc,available,31.99,31.99,medium,low,11,namesilo,,
@@ -859,7 +859,7 @@ af81fb28-7d71-4dcf-8fa9-35a63ad48e47,select.nyc,premium,625,,high,low,6,name.com
 d572b8e9-f7fa-452e-adcf-aa42431d6a14,visitor.nyc,resell,,,high,low,7,IONOS SE,11/01/2026 04:07,11/01/2027 04:07
 d9b7034d-4919-431e-a246-9aa6ee4877a5,letterofwishes.nyc,available,31.99,31.99,high,low,16,namesilo,,
 ffff29a9-c5d1-4b86-ab28-de9ae9fdcb6a,sensationally.nyc,available,31.99,31.99,medium,low,13,namesilo,,
-67bd3ba5-d32b-4dec-aaae-e2dd8663e041,image.nyc,premium,3125,,high,medium,5,name.com,,
+67bd3ba5-d32b-4dec-aaae-e2dd8663e041,image.nyc,premium,3250,32.5,medium,medium,5,namecheap,,
 ddfae730-c6b8-4318-832f-d55a9f354563,conformto.nyc,available,31.99,31.99,high,low,10,namesilo,,
 ff07b852-0fa5-4aa1-8738-2367010466df,consumer.nyc,available,,,high,low,8,,,
 2856a426-cb17-4f3a-9348-435ef81db5f4,fullofbeans.nyc,available,31.99,31.99,medium,low,13,namesilo,,

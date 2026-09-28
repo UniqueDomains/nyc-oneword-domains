@@ -1,10 +1,10 @@
-# Available .NYC One-Word Domains (20,793)
+# Available .NYC One-Word Domains (21,219)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C793%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C219%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .nyc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,793 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,219 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,793 domains · **Median ask:** $153.93 · **High-demand under $2,500:** 13
+**Public extract:** 1,000 rows · **Live catalog:** 21,219 domains · **Median ask:** $153.44 · **High-demand under $2,500:** 13
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/nyc`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| she.nyc       | available | $31.99    | $31.99        | high           | low    | 3      | namesilo                                                  |
-| relax.nyc     | resell    | —         | —             | high           | low    | 5      | —                                                         |
-| abs.nyc       | premium   | $640      | $29.50        | high           | low    | 3      | namesilo                                                  |
-| afar.nyc      | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo                                                  |
-| smoked.nyc    | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC                                          |
-| age.nyc       | premium   | $1,107    | $29.50        | high           | low    | 3      | namesilo                                                  |
-| agee.nyc      | available | $32.98    | $43.98        | medium         | low    | 4      | namecheap                                                 |
-| strong.nyc    | resell    | —         | —             | high           | low    | 6      | Hello Internet Corp.                                      |
-| amd.nyc       | premium   | $650      | $32.50        | high           | low    | 3      | namecheap                                                 |
-| ahab.nyc      | available | $32.98    | $43.98        | medium         | low    | 4      | namecheap                                                 |
-| greater.nyc   | resell    | —         | —             | high           | low    | 7      | Go Australia Domains Inc                                  |
-| ass.nyc       | premium   | $625      | $46.99        | high           | low    | 3      | name.com                                                  |
-| alep.nyc      | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo                                                  |
-| horizon.nyc   | resell    | —         | —             | high           | high   | 7      | Hello Internet Corp.                                      |
-| azo.nyc       | premium   | $625      | $46.99        | high           | low    | 3      | name.com                                                  |
-| alky.nyc      | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo                                                  |
-| franklin.nyc  | resell    | —         | —             | high           | low    | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
-| bjp.nyc       | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| anal.nyc      | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                                  |
-| batteries.nyc | resell    | —         | —             | medium         | low    | 9      | —                                                         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| she.nyc      | available | $31.99    | $31.99        | high           | low    | 3      | namesilo                                                  |
+| relax.nyc    | resell    | —         | —             | high           | low    | 5      | —                                                         |
+| abs.nyc      | premium   | $640      | $29.50        | high           | low    | 3      | namesilo                                                  |
+| afar.nyc     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo                                                  |
+| smoked.nyc   | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC                                          |
+| age.nyc      | premium   | $1,107    | $29.50        | high           | low    | 3      | namesilo                                                  |
+| agee.nyc     | available | $32.98    | $43.98        | medium         | low    | 4      | namecheap                                                 |
+| strong.nyc   | resell    | —         | —             | high           | low    | 6      | Hello Internet Corp.                                      |
+| amd.nyc      | premium   | $650      | $32.50        | high           | low    | 3      | namecheap                                                 |
+| ahab.nyc     | available | $32.98    | $43.98        | medium         | low    | 4      | namecheap                                                 |
+| greater.nyc  | resell    | —         | —             | high           | low    | 7      | Go Australia Domains Inc                                  |
+| ass.nyc      | premium   | $625      | $46.99        | high           | low    | 3      | name.com                                                  |
+| alep.nyc     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo                                                  |
+| horizon.nyc  | resell    | —         | —             | high           | high   | 7      | Hello Internet Corp.                                      |
+| azo.nyc      | premium   | $625      | $46.99        | high           | low    | 3      | name.com                                                  |
+| alky.nyc     | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo                                                  |
+| lawsuit.nyc  | resell    | —         | —             | high           | low    | 7      | —                                                         |
+| bjp.nyc      | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| anal.nyc     | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                                                  |
+| franklin.nyc | resell    | —         | —             | high           | low    | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,793 live domains                        |
+| 1,000-row public sample | 21,219 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 13 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |

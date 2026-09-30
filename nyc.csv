@@ -4,9 +4,11 @@ a81064a9-d634-4d18-bb51-028f620b37b1,she.nyc,available,31.99,31.99,high,low,3,na
 e3f89f28-44a0-41bb-96df-8a84b5cacd22,swishy.nyc,available,31.99,31.99,medium,low,6,namesilo,,,11/09/2026 05:54
 8aca8c88-899e-45af-b583-9c6fb31171d4,wieldy.nyc,available,31.99,31.99,medium,low,6,namesilo,,,13/09/2026 11:52
 0e51bf48-3215-4ec0-b102-f7b1f4fa0db1,voted.nyc,available,31.99,31.99,medium,low,5,namesilo,,,17/09/2026 16:50
+81b00545-78a8-4286-a769-f789df30c0c0,architectural.nyc,available,26.08,26.08,medium,low,13,spaceship,,,29/09/2026 08:50
 017f94d5-4161-4b4c-b186-bd14043c4aa3,cochlear.nyc,available,6.98,43.98,medium,low,8,namecheap,,,12/08/2026 14:45
 fa5df916-77da-4e6d-982c-c312c124e275,tuxedo.nyc,premium,640,29.5,high,low,6,namesilo,,,24/09/2026 01:52
 c1d57486-89fc-47af-998e-27373ceadac4,specular.nyc,available,6.98,43.98,medium,low,8,namecheap,,,25/08/2026 01:15
+0214b527-e039-446f-8932-028046f22d8d,bozeman.nyc,available,31.99,31.99,high,low,7,namesilo,,,30/09/2026 00:51
 8dbde0de-ca98-4912-afb0-3fc63b7046ea,bulla.nyc,available,31.99,31.99,medium,low,5,namesilo,,,24/09/2026 05:20
 5a14e18f-064c-4dc7-9de4-4c6bac5c1c33,scupper.nyc,available,31.99,31.99,medium,low,7,namesilo,,,18/09/2026 17:30
 3da90a6e-5d2b-4d8b-82a6-3d8d09a45c8b,backstretch.nyc,available,43.98,,high,low,12,namecheap,,,
@@ -17,14 +19,14 @@ be9ec729-be9d-4b52-85df-dc2cee291a80,thankful.nyc,available,32.98,43.98,high,low
 6803f742-b636-40fb-b920-ca417da1a111,camo.nyc,available,31.99,31.99,high,low,4,namesilo,,,29/09/2026 06:06
 a73636d2-1d81-4879-b451-2f2158c5feae,quat.nyc,available,31.99,31.99,medium,low,4,namesilo,,,17/09/2026 15:25
 4b23f6ee-4456-49fc-90c6-8e6dd9e55bcf,wintery.nyc,available,31.99,31.99,medium,low,7,namesilo,,,13/09/2026 12:39
-0aba0ed2-b0ae-46a5-9d54-1885ebdfb78b,grandson.nyc,available,43.98,,high,low,8,namecheap,,,
+0aba0ed2-b0ae-46a5-9d54-1885ebdfb78b,grandson.nyc,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 21:28
 d8d0b3d5-223d-4ff5-8706-05cad8d92a40,probing.nyc,available,6.98,43.98,high,low,7,namecheap,,,22/08/2026 06:21
 d131a36f-f80d-4c7b-8d5c-f0a814fb8f45,guy.nyc,premium,650,32.5,high,low,3,namecheap,,,24/09/2026 02:27
 6071b4eb-1da5-4a92-b77d-82cd1c1bbba9,astrodome.nyc,available,31.99,31.99,medium,low,9,namesilo,,,20/09/2026 17:37
 85039b88-1f11-4c1d-9d9b-6f74b333f5f0,pointless.nyc,available,32.98,43.98,medium,low,9,namecheap,,,26/09/2026 03:12
 d1bcc7a7-69b7-44e4-91a5-eeb758bea0f5,detained.nyc,available,31.99,31.99,low,low,8,namesilo,,,29/09/2026 05:25
 775ceaf3-9472-4549-b060-9396b3bbfa6e,viscous.nyc,available,6.98,43.98,high,low,7,namecheap,,,20/08/2026 15:25
-62952ea9-e844-48f1-a1b5-830e40e2c4b9,serie.nyc,available,31.99,31.99,medium,low,5,namesilo,,,28/09/2026 15:54
+62952ea9-e844-48f1-a1b5-830e40e2c4b9,serie.nyc,available,31.99,31.99,high,low,5,namesilo,,,28/09/2026 15:54
 c0fca841-e04d-4d0c-b829-06d4faac3d5c,jugular.nyc,available,6.98,43.98,medium,low,7,namecheap,,,22/08/2026 14:16
 b130f4d9-f810-4c99-94ad-423067a93af9,tap.nyc,premium,1107,29.5,high,medium,3,namesilo,,,27/09/2026 03:03
 a3d4282f-815d-4ca4-8ba4-fca6d8fa5a95,unpatented.nyc,available,31.99,31.99,medium,low,10,namesilo,,,12/09/2026 16:29
@@ -32,23 +34,28 @@ a3d4282f-815d-4ca4-8ba4-fca6d8fa5a95,unpatented.nyc,available,31.99,31.99,medium
 3c8bfd7b-289b-4d23-a094-ef43a8f66ad9,afc.nyc,premium,517.7,26.08,high,low,3,spaceship,,,28/09/2026 16:17
 d0296e4d-f318-4c25-a11e-37d0b6b43417,secretly.nyc,available,31.99,31.99,medium,low,8,namesilo,,,15/09/2026 06:37
 58f804cc-34ad-4649-b4bc-05c19a5a087d,bight.nyc,available,32.98,43.98,medium,low,5,namecheap,,,23/09/2026 15:12
+7ded70d3-e1b3-4fc8-85e3-46260261206e,tipping.nyc,available,31.99,31.99,medium,low,7,namesilo,,,29/09/2026 23:33
 7e98d2d6-03fd-4d39-8e0c-a41aa956aab6,chaste.nyc,available,6.98,43.98,high,low,6,namecheap,,,12/08/2026 03:11
 53fdff17-6ea1-454e-955b-f571957e2aa9,ruckle.nyc,available,6.98,43.98,medium,low,6,namecheap,,,13/08/2026 07:12
+7f9f86ae-8770-4aff-b776-9bd16da688d5,ups.nyc,premium,640,29.5,high,medium,3,namesilo,,,29/09/2026 08:49
 aa946a7f-25da-4f54-8ca3-55d0019ee4aa,shorthand.nyc,available,31.99,31.99,high,medium,9,namesilo,,,10/09/2026 06:49
 acd089fd-219a-46d1-83cb-0474f3c62462,revised.nyc,available,26.08,26.08,high,low,7,spaceship,,,27/09/2026 14:32
 53473a6c-5a53-4b32-9c6b-ad325212a03a,oily.nyc,available,6.98,43.98,medium,low,4,namecheap,,,11/08/2026 11:42
 f3bbcdff-fa84-423d-936c-b6f615bc3f1d,medical.nyc,premium,6900,29.5,high,low,7,namesilo,,,28/09/2026 06:57
-e8264de0-e71b-4714-a198-7314947d4d3f,ensuing.nyc,available,6.98,43.98,medium,low,7,namecheap,,,17/08/2026 09:51
-641e4a91-40f0-4ecc-bb13-45efef2c4ff9,questioning.nyc,available,31.99,31.99,medium,low,11,namesilo,,,27/09/2026 09:01
+e8264de0-e71b-4714-a198-7314947d4d3f,ensuing.nyc,available,6.98,43.98,high,low,7,namecheap,,,17/08/2026 09:51
+641e4a91-40f0-4ecc-bb13-45efef2c4ff9,questioning.nyc,available,31.99,31.99,high,low,11,namesilo,,,27/09/2026 09:01
 a70984f0-fff1-4870-9e88-ffefde6fe812,bulge.nyc,available,31.99,31.99,high,low,5,namesilo,,,08/09/2026 23:47
 8dc28287-75a1-43f8-835e-19fde645979b,offering.nyc,available,31.99,31.99,high,low,8,namesilo,,,25/09/2026 09:37
 5e577ed7-cf81-4cc1-9620-dd486bf268cf,algae.nyc,available,31.99,31.99,high,low,5,namesilo,,,18/09/2026 06:48
-f7110cde-131e-4c7b-9db2-f445bd270902,casually.nyc,available,31.99,31.99,medium,low,8,namesilo,,,14/09/2026 05:25
+f7110cde-131e-4c7b-9db2-f445bd270902,casually.nyc,available,31.99,31.99,high,low,8,namesilo,,,14/09/2026 05:25
+c5d9ef8d-407d-4299-801b-6bf94dd00f40,appl.nyc,available,26.08,26.08,high,low,4,spaceship,,,29/09/2026 21:44
 701ca7c9-d91c-49f5-bde7-0f0bb6a6d5e7,friar.nyc,available,6.98,43.98,medium,low,5,namecheap,,,24/08/2026 20:10
 a7a02f55-3738-4212-be92-b928d5704f90,abetter.nyc,available,31.99,31.99,medium,low,7,namesilo,,,16/09/2026 15:19
+5bd9120f-ab71-4119-8dce-decc6ee413e4,literacy.nyc,available,26.97,26.97,high,low,8,dynadot,,,30/09/2026 02:09
 35302e2f-0161-4147-8541-5d7c57f81c7e,lexically.nyc,available,31.99,31.99,medium,low,9,namesilo,,,15/09/2026 11:16
 ae4c7618-8ba2-4a07-9e4f-6888959ff438,germfree.nyc,available,6.98,43.98,medium,low,8,namecheap,,,18/08/2026 22:48
 6d03cad6-c6a4-4156-9589-0148554fbceb,moose.nyc,available,32.98,43.98,high,low,5,namecheap,,,18/09/2026 03:57
+97b8a980-babb-485a-8d38-e92d7f848753,diarrhea.nyc,available,31.99,31.99,medium,low,8,namesilo,,,29/09/2026 18:38
 728f849a-fb18-416d-9334-55f0f685e27d,wretched.nyc,available,6.98,43.98,medium,low,8,namecheap,,,14/08/2026 04:09
 b3cba407-9e97-4181-8594-4fa363743035,thanked.nyc,available,26.08,26.08,medium,low,7,spaceship,,,29/09/2026 05:27
 29d95974-0d90-4e20-97dd-a6c1f8452f22,alep.nyc,available,31.99,31.99,medium,low,4,namesilo,,,18/09/2026 05:14
@@ -68,17 +75,18 @@ af103715-8c0c-4485-8c84-0f17186f03ff,ferrous.nyc,available,6.98,43.98,medium,low
 20b71f7a-6164-43c8-820b-6d0e00765a1a,unsteady.nyc,available,31.99,31.99,medium,low,8,namesilo,,,12/09/2026 10:21
 e5d58a57-5b09-4c92-8081-db8e48fbe8a5,sourish.nyc,available,6.98,43.98,medium,low,7,namecheap,,,22/08/2026 23:29
 d59df35a-a048-43cb-8d10-d7fa2be20959,beardless.nyc,available,6.98,43.98,medium,low,9,namecheap,,,09/08/2026 04:43
+d62be0a3-e74d-4ea0-98d8-8e4f98c09eb2,wal.nyc,premium,517.7,26.08,high,low,3,spaceship,,,29/09/2026 23:46
 2993b693-482f-430a-bbd5-00e218f118c7,willowy.nyc,available,6.98,43.98,medium,low,7,namecheap,,,20/08/2026 17:31
 d83650c4-dfd9-4f38-8ce3-8fa5d0905890,constant.nyc,premium,53.92,29.5,high,low,8,namesilo,,,11/08/2026 23:02
-88208418-5603-4a6a-8124-a607b3224a5f,kimberley.nyc,available,26.08,26.08,medium,low,9,spaceship,,,28/09/2026 19:38
-63829dbe-d0d4-454d-8fea-63766db46e0d,bellflower.nyc,available,31.99,31.99,medium,low,10,namesilo,,,23/09/2026 06:06
+88208418-5603-4a6a-8124-a607b3224a5f,kimberley.nyc,available,26.08,26.08,high,low,9,spaceship,,,28/09/2026 19:38
+63829dbe-d0d4-454d-8fea-63766db46e0d,bellflower.nyc,available,31.99,31.99,high,low,10,namesilo,,,23/09/2026 06:06
 cf326f0a-046c-4e95-93b2-830313b92abf,command.nyc,available,31.99,31.99,high,low,7,namesilo,,,23/09/2026 13:28
 eb67cb88-83ff-46e1-b8de-144661b51d1e,depending.nyc,available,32.98,43.98,medium,low,9,namecheap,,,27/09/2026 22:26
 67a11d26-1823-4b84-b86c-beaa6f7e3187,bjp.nyc,premium,625,,high,low,3,name.com,,,
 dd312a18-215e-42b9-815a-6236e31d5cf6,smoothly.nyc,available,31.99,31.99,high,low,8,namesilo,,,16/09/2026 02:56
 2d4ac075-09ea-4979-ba7b-62211af71234,aliform.nyc,available,31.99,31.99,medium,low,7,namesilo,,,
 db4bd618-5395-4c84-a3b5-7bc8f0b86dcc,pusher.nyc,available,31.99,31.99,high,low,6,namesilo,,,21/09/2026 13:22
-fa062daa-361a-4d05-8fe2-b14863c82cc5,utter.nyc,available,26.97,26.97,medium,low,5,dynadot,,,28/09/2026 10:04
+fa062daa-361a-4d05-8fe2-b14863c82cc5,utter.nyc,available,26.97,26.97,high,low,5,dynadot,,,28/09/2026 10:04
 d90ee4fc-41b3-406d-8c7b-68b65fc73574,directions.nyc,premium,3450,29.5,high,low,10,namesilo,,,27/09/2026 09:16
 d19f4893-1141-4378-a4af-917f13426cf0,sisters.nyc,premium,625,46.99,high,low,7,name.com,,,
 11409618-687b-4208-ae87-d607fe833a57,alaric.nyc,available,32.98,43.98,high,low,6,namecheap,,,18/09/2026 01:52
@@ -95,7 +103,7 @@ e52d9d34-e0f8-4751-a854-afd9c2141b56,wonderfully.nyc,available,31.99,31.99,high,
 94485e21-478d-44fb-b8ed-929a27470ea4,stamps.nyc,premium,3450,29.5,medium,low,6,namesilo,,,28/09/2026 08:32
 2fb5b065-621c-4e85-abbb-c6bdb3b0294e,unshelled.nyc,available,31.99,31.99,high,medium,9,namesilo,,,10/09/2026 06:23
 719f7ad5-be83-42c5-b2b1-eadc659e3b36,pickups.nyc,available,31.99,31.99,medium,low,7,namesilo,,,20/09/2026 05:31
-48c0d7d5-51f0-4c95-81a0-b0d482366bd2,bassoon.nyc,available,31.99,31.99,medium,low,7,namesilo,,,22/09/2026 12:33
+48c0d7d5-51f0-4c95-81a0-b0d482366bd2,bassoon.nyc,available,31.99,31.99,high,low,7,namesilo,,,22/09/2026 12:33
 9c15ff88-3c78-456e-97fe-99d617a969c5,terracotta.nyc,available,31.99,31.99,high,low,11,namesilo,,,17/09/2026 09:12
 ea10861e-c3be-4efa-b2a8-c095dcd571be,resinated.nyc,available,9.99,46.99,medium,low,9,name.com,,,09/09/2026 15:09
 20fe66cb-44b2-4ec0-ae5c-5d0216299013,revisions.nyc,available,31.99,31.99,medium,low,9,namesilo,,,20/09/2026 05:28
@@ -103,28 +111,32 @@ d74eb1db-151a-47ee-9de9-72919463cb20,nervously.nyc,available,31.99,31.99,medium,
 bad2c243-8ee1-42d4-8dba-235bb4d31352,enraged.nyc,available,31.99,31.99,medium,low,7,namesilo,,,
 c9f54cd5-d078-428e-8af1-2d9ed424ef9e,cypriote.nyc,available,43.99,46.99,medium,low,8,name.com,,,13/08/2026 14:05
 1b45fc47-9d4a-4dcc-b373-38c6caa8f991,bitumen.nyc,available,31.99,31.99,medium,low,7,namesilo,,,23/09/2026 23:13
-fd60a928-c636-4b2f-83bf-9ac66089b028,afrikaner.nyc,available,31.99,31.99,medium,low,9,namesilo,,,
+fd60a928-c636-4b2f-83bf-9ac66089b028,afrikaner.nyc,available,31.99,31.99,high,low,9,namesilo,,,
 abef3884-e6e5-4d6f-8a7c-c6e387f8d842,chunky.nyc,available,6.98,43.98,high,low,6,namecheap,,,12/08/2026 07:44
 c523b676-44cd-4164-b2a7-de7a2a09e5e0,firing.nyc,available,31.99,31.99,high,low,6,namesilo,,,27/09/2026 03:58
-3db7f227-e857-4581-b5a8-d60ff048e9b7,disuse.nyc,available,31.99,31.99,medium,low,6,namesilo,,,24/09/2026 23:14
-2e3fc61d-04c3-4c8a-9ea8-070704aa9e1d,windup.nyc,available,31.99,31.99,medium,low,6,namesilo,,,13/09/2026 12:18
+3db7f227-e857-4581-b5a8-d60ff048e9b7,disuse.nyc,available,31.99,31.99,high,low,6,namesilo,,,24/09/2026 23:14
+2e3fc61d-04c3-4c8a-9ea8-070704aa9e1d,windup.nyc,available,31.99,31.99,high,low,6,namesilo,,,13/09/2026 12:18
 64f7546c-ad43-4fc4-8402-0fd7fd71c989,afraid.nyc,available,43.99,46.99,high,low,6,name.com,,,26/09/2026 00:46
 9b20c1c2-cece-4ca9-acff-e2532725d8df,nsa.nyc,premium,640,29.5,high,low,3,namesilo,,,27/09/2026 04:50
 d8343375-31f2-4eb9-ba63-a7738860c249,onerous.nyc,available,6.98,43.98,medium,low,7,namecheap,,,11/08/2026 10:31
-65516d20-8843-4f28-81fd-6481779b4faf,wrestling.nyc,premium,6250,,high,low,9,name.com,,,
-2722d7fa-92f7-4c82-8a41-8ce8d3acf38f,cordate.nyc,available,6.98,43.98,medium,low,7,namecheap,,,13/08/2026 00:50
+65516d20-8843-4f28-81fd-6481779b4faf,wrestling.nyc,premium,6500,32.5,high,low,9,namecheap,,,29/09/2026 21:30
+2722d7fa-92f7-4c82-8a41-8ce8d3acf38f,cordate.nyc,available,6.98,43.98,high,low,7,namecheap,,,13/08/2026 00:50
+808aac5f-c8e2-4618-97a1-3316339a4ee5,frustrating.nyc,available,26.08,26.08,medium,low,11,spaceship,,,29/09/2026 14:46
 cf91427a-ae73-47ee-8dd3-300ebe394c5e,overheated.nyc,available,32.98,43.98,medium,low,10,namecheap,,,04/09/2026 20:47
 f7aab0dd-a0b4-425a-b792-671b924bfe68,solicit.nyc,available,31.99,31.99,high,low,7,namesilo,,,27/09/2026 16:11
 811a9448-8e30-4282-83d4-e05ab2e25ef8,bpm.nyc,premium,640,29.5,high,low,3,namesilo,,,22/09/2026 21:53
 cae7eb14-1abd-4095-8c73-858be28a96c9,hypaethral.nyc,available,6.98,43.98,medium,low,10,namecheap,,,21/08/2026 16:39
 6fb451d3-fbdc-4dc6-8296-e87141becaf6,tractile.nyc,available,31.99,31.99,medium,low,8,namesilo,,,11/09/2026 18:39
+2c452bff-50b4-4679-a84a-7cd753486b45,chechnya.nyc,available,32.98,43.98,medium,low,8,namecheap,,,29/09/2026 18:18
 be50d760-34b7-417b-8393-d0e609dbfdd8,riparian.nyc,available,32.98,43.98,high,low,8,namecheap,,,09/09/2026 17:53
 7823a05d-82a5-4a01-80e9-699c15dd61fb,confluent.nyc,available,6.98,43.98,high,low,9,namecheap,,,12/08/2026 21:07
+729712eb-90a3-4ccf-bc57-d833a9e2993e,hallelujah.nyc,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 19:07
 69764047-3b26-4c07-bae6-67d6471365a2,argil.nyc,available,31.99,31.99,medium,low,5,namesilo,,,20/09/2026 04:20
 28d8f406-50cb-4b62-8777-8468fcd0e4d0,prink.nyc,available,31.99,31.99,medium,low,5,namesilo,,,21/09/2026 02:05
 3cc90a41-6d27-42c7-bd97-0b700c15553c,stunner.nyc,available,6.98,43.98,high,low,7,namecheap,,,22/08/2026 16:40
 6b9b3404-e46b-46bc-8ff4-7304a1209211,richland.nyc,available,31.99,31.99,high,low,8,namesilo,,,28/09/2026 08:10
 b3e5340b-e7cd-4362-9e58-440fb91f999b,granth.nyc,available,31.99,31.99,high,low,6,namesilo,,,17/09/2026 08:05
+947514dc-79d2-4d12-975e-89ab197e449a,karnataka.nyc,available,26.08,26.08,high,low,9,spaceship,,,29/09/2026 19:27
 cedcd660-4c01-4b2a-a5c9-6cc843a5a829,angora.nyc,available,32.98,43.98,high,low,6,namecheap,,,19/09/2026 07:06
 d7d9763b-2f55-4a0e-83ba-9eb692fb29d6,segmented.nyc,available,6.98,43.98,medium,low,9,namecheap,,,24/08/2026 21:43
 83e4a4be-c348-49e5-9f32-18d67720c01f,appro.nyc,available,31.99,31.99,medium,low,5,namesilo,,,19/09/2026 22:20
@@ -134,7 +146,7 @@ d539bef6-307d-4d2e-8a0a-c685ef938398,erotic.nyc,premium,3125,46.99,high,low,6,na
 89717ce9-20bd-4fd8-b877-44d4307e527d,milne.nyc,available,31.99,31.99,medium,low,5,namesilo,,,16/09/2026 12:53
 24428b08-ba56-4d9e-9548-276ffadc72c7,buggery.nyc,available,31.99,31.99,medium,low,7,namesilo,,,19/09/2026 01:35
 bedfc9ba-20b6-4e7c-971b-7521706f718b,earthling.nyc,available,31.99,31.99,high,low,9,namesilo,,,11/09/2026 10:43
-2583225e-ce57-4611-85f7-23922e0ad545,burgess.nyc,available,32.98,43.98,medium,low,7,namecheap,,,19/09/2026 13:35
+2583225e-ce57-4611-85f7-23922e0ad545,burgess.nyc,available,32.98,43.98,high,low,7,namecheap,,,19/09/2026 13:35
 efa7280b-bd5a-4d28-b3ca-7664756a826d,enatic.nyc,available,6.98,43.98,medium,low,6,namecheap,,,16/08/2026 21:20
 1571b9ad-d159-4b87-b1b6-2cf0a8953b37,toradol.nyc,available,31.99,31.99,medium,low,7,namesilo,,,17/09/2026 05:31
 9de75edd-6bd0-43ff-9211-6db536640321,kitschy.nyc,available,6.98,43.98,medium,low,7,namecheap,,,09/08/2026 00:53
@@ -143,12 +155,14 @@ efa7280b-bd5a-4d28-b3ca-7664756a826d,enatic.nyc,available,6.98,43.98,medium,low,
 a812befc-e90c-41ce-9d2b-8f39fbe907a7,drying.nyc,available,31.99,31.99,high,low,6,namesilo,,,16/09/2026 09:24
 87afadad-fd7d-43cd-8791-858371389eed,taxing.nyc,available,6.98,43.98,medium,low,6,namecheap,,,11/08/2026 10:33
 eaba4455-98b2-46bd-83a2-2b02a6ee3caa,blackthorn.nyc,available,31.99,31.99,medium,low,10,namesilo,,,24/09/2026 03:10
-bac4ce56-dcaf-4c81-a811-d99ee718b2da,debt.nyc,premium,6250,,high,low,4,name.com,,,
+bac4ce56-dcaf-4c81-a811-d99ee718b2da,debt.nyc,premium,6900,29.5,high,low,4,namesilo,,,29/09/2026 13:26
 2325559d-d0c6-4887-a1d4-311958ba7ede,peterborough.nyc,available,26.26,26.26,high,low,12,porkbun,,,28/09/2026 07:36
 0feb6666-4bd7-4270-84ef-93df52c0a318,resists.nyc,available,31.99,31.99,medium,low,7,namesilo,,,18/09/2026 10:58
+77d45c1e-9f6b-4b67-ba9a-2233caccdc04,noi.nyc,premium,517.7,26.08,high,low,3,spaceship,,,29/09/2026 21:37
 6047e4df-53cf-44a1-87d0-7e0273bf4e9b,ariana.nyc,available,31.99,31.99,high,low,6,namesilo,,,20/09/2026 05:10
 68fd19a5-ad24-43eb-8002-0b7aea7c0dde,cultivars.nyc,available,26.08,26.08,low,low,9,spaceship,,,28/09/2026 00:23
 4147748c-8ba3-4982-9dde-e31231a143d2,invasive.nyc,available,6.98,43.98,medium,low,8,namecheap,,,16/08/2026 23:54
+c5fc8e19-072f-45c1-96fd-e975f69c61a5,sevilla.nyc,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 13:56
 1a64f1d4-689e-4634-b51e-367eaf10b5f4,sewell.nyc,available,32.98,43.98,medium,low,6,namecheap,,,28/09/2026 22:10
 6e11874e-05ba-443c-8e87-8703c5224e03,martini.nyc,premium,640,29.5,high,low,7,namesilo,,,28/09/2026 14:50
 3c1c0025-1a77-448c-8bcf-f304bb9c4818,failing.nyc,available,6.98,43.98,medium,low,7,namecheap,,,17/08/2026 20:44
@@ -159,8 +173,8 @@ e069e6f1-01a8-42f6-8f5f-9e8a7e5922a0,strep.nyc,available,31.99,31.99,medium,low,
 687be1f3-e471-4a14-a7c2-ff5d4fdf3c57,rubbing.nyc,available,26.08,26.08,medium,low,7,spaceship,,,29/09/2026 02:04
 f3e96e0a-a9a7-4259-ae93-4e11c1a2ae44,reprobate.nyc,available,6.98,43.98,medium,low,9,namecheap,,,14/08/2026 02:38
 8dc39f45-c24b-4e7d-8b0d-78879e68454b,stalinist.nyc,available,32.98,43.98,medium,low,9,namecheap,,,10/09/2026 18:25
-fc46dd96-e21f-442b-b9d8-c459a115d954,people.nyc,premium,3125,,high,medium,6,name.com,,,
-f90f342f-346c-4ca0-bbe9-beda4076b70e,absurdity.nyc,available,31.99,31.99,medium,low,9,namesilo,,,16/09/2026 18:39
+fc46dd96-e21f-442b-b9d8-c459a115d954,people.nyc,premium,2587.7,26.08,high,medium,6,spaceship,,,29/09/2026 09:30
+f90f342f-346c-4ca0-bbe9-beda4076b70e,absurdity.nyc,available,31.99,31.99,high,low,9,namesilo,,,16/09/2026 18:39
 2cc4a538-da71-458a-a0d6-7e4464e709bb,acrobatics.nyc,available,31.99,31.99,high,low,10,namesilo,,,17/09/2026 03:19
 2b19ee65-5b60-4de5-b820-0748404903d4,machinery.nyc,premium,302.5,29.5,high,low,9,namesilo,,,28/09/2026 05:39
 6aa3702b-f19c-4f93-872b-60b119660308,blasphemer.nyc,available,31.99,31.99,medium,low,10,namesilo,,,24/09/2026 04:14
@@ -178,6 +192,7 @@ f6d374c6-8c53-45bf-a97c-3c1aad7e7dad,lastly.nyc,available,26.26,26.26,medium,low
 39768a3d-bb62-4e92-8f7c-bee4b9baf5be,firm.nyc,premium,2587.7,26.08,high,low,4,spaceship,,,28/09/2026 03:17
 17e93a3c-449d-4d94-8726-b02809125280,possessions.nyc,available,32.98,43.98,low,low,11,namecheap,,,28/09/2026 17:10
 9853c67e-9dec-433f-b809-ec659b1c00a2,anuran.nyc,available,6.98,43.98,medium,low,6,namecheap,,,05/08/2026 20:48
+b51654cd-5e59-4c30-99d1-dfc207f5b21f,turkestan.nyc,available,31.99,31.99,medium,low,9,namesilo,,,30/09/2026 03:05
 a70c0af4-f3ce-4e83-90e3-cadf05dcf8b7,rubberlike.nyc,available,32.98,43.98,high,medium,10,namecheap,,,09/09/2026 19:15
 39b8ae49-d6bb-4461-ad79-35b135ca72ed,esteemed.nyc,available,6.98,43.98,high,low,8,namecheap,,,17/08/2026 13:23
 b012016d-cee5-46b2-9b79-7cdac31aba01,cursory.nyc,available,6.98,43.98,medium,low,7,namecheap,,,13/08/2026 11:41
@@ -187,7 +202,7 @@ b012016d-cee5-46b2-9b79-7cdac31aba01,cursory.nyc,available,6.98,43.98,medium,low
 954c89ec-697b-4a83-9a9e-e5decc88f148,ruse.nyc,available,31.99,31.99,medium,low,4,namesilo,,,20/09/2026 11:33
 fbba46e6-b571-44bf-8a0f-fe9c42ee39d7,individuals.nyc,available,31.99,31.99,medium,low,11,namesilo,,,28/09/2026 12:49
 5f3c9363-dafd-47d6-aea0-19cd908e8c83,muntjac.nyc,available,31.99,31.99,medium,low,7,namesilo,,,22/09/2026 06:28
-e42faca1-fbbe-4cbd-a689-2e046b511347,tantrum.nyc,available,6.98,43.98,medium,low,7,namecheap,,,18/08/2026 05:41
+e42faca1-fbbe-4cbd-a689-2e046b511347,tantrum.nyc,available,6.98,43.98,high,low,7,namecheap,,,18/08/2026 05:41
 87f3c241-c24d-4a96-bd42-6dcdd9704d7e,avoidance.nyc,available,31.99,31.99,medium,low,9,namesilo,,,21/09/2026 09:49
 b845d396-2ee5-46b6-b8b9-8ca3d53f9f96,polemic.nyc,available,31.99,31.99,medium,low,7,namesilo,,,08/09/2026 22:51
 705ced1e-0c95-4595-bfe9-69b644d064d5,ruin.nyc,available,6.98,43.98,high,low,4,namecheap,,,08/08/2026 13:39
@@ -195,6 +210,8 @@ cd2fcee5-bc36-450a-bd9a-6535f65f5be6,verbalise.nyc,available,31.99,31.99,medium,
 1d236d02-eda5-44d0-8cad-17d0ab00c5ae,ramsey.nyc,available,31.99,31.99,high,low,6,namesilo,,,25/09/2026 15:22
 be2802b7-491a-4b3a-8d4f-f85c52126c1b,mono.nyc,available,32.98,43.98,high,medium,4,namecheap,,,25/09/2026 21:33
 1c8cd384-920e-4fb8-9e11-d538b70c2bed,fulsome.nyc,available,6.98,43.98,medium,low,7,namecheap,,,11/08/2026 11:40
+dc6f47e8-812e-42c2-bb21-5fc2ae62fd04,nevis.nyc,available,26.08,26.08,high,low,5,spaceship,,,29/09/2026 07:42
+a79e04c3-61b5-466c-a8ae-eb47c98f7984,dublin.nyc,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 18:12
 24b8367c-d9fa-4cc5-b46d-123bb3304969,complexly.nyc,available,31.99,31.99,medium,low,9,namesilo,,,14/09/2026 07:45
 ef5b7772-4bbc-49a7-bc43-b1c2b557b148,longfellow.nyc,available,26.08,26.08,medium,low,10,spaceship,,,29/09/2026 01:16
 a61bed47-965b-4a31-8c3e-7ca4b5a7130f,rimless.nyc,available,31.99,31.99,medium,low,7,namesilo,,,09/09/2026 17:43
@@ -211,15 +228,17 @@ ce1120c2-ddef-4a71-9d6b-a038d4b779c6,armorial.nyc,available,6.98,43.98,medium,lo
 91004cff-091d-4e08-a6e3-81a35361ee62,acerose.nyc,available,31.99,31.99,medium,low,7,namesilo,,,
 f4b0ac74-9df4-4242-8b08-8c06dcdbca40,corrode.nyc,available,32.98,43.98,medium,low,7,namecheap,,,09/09/2026 20:10
 ffe73b25-2d65-4904-b56a-3bb631b46ea5,abridged.nyc,available,31.99,31.99,high,low,8,namesilo,,,
+4788a010-3a51-43a4-9877-43fba033f4d2,colonies.nyc,available,31.99,31.99,medium,low,8,namesilo,,,29/09/2026 15:59
 3de5682f-278d-4054-b6d5-46a482f281c6,picking.nyc,available,31.99,31.99,high,low,7,namesilo,,,25/09/2026 09:58
 30a276ea-29ac-4635-ab33-868f59b6891b,toughened.nyc,available,31.99,31.99,medium,low,9,namesilo,,,11/09/2026 10:54
-04760119-9e5a-4e04-9177-f9b67714ea22,assyria.nyc,available,32.98,43.98,medium,low,7,namecheap,,,20/09/2026 16:47
+04760119-9e5a-4e04-9177-f9b67714ea22,assyria.nyc,available,32.98,43.98,high,low,7,namecheap,,,20/09/2026 16:47
 7cc94dfe-80e2-413b-a62f-ba3ce430d84f,treachery.nyc,available,32.98,43.98,medium,low,9,namecheap,,,23/09/2026 11:23
 7e588b75-1d08-4aa3-b235-185a0df21a06,possibilities.nyc,available,31.99,31.99,medium,low,13,namesilo,,,16/09/2026 10:01
 d5cb7c09-6502-4cf6-9f81-9eaa24c95f2e,agee.nyc,available,32.98,43.98,medium,low,4,namecheap,,,17/09/2026 16:52
-060273b0-5a1d-4af6-9190-9a3ae6606c6a,sul.nyc,premium,640,29.5,medium,low,3,namesilo,,,27/09/2026 10:19
-ef981360-d030-4a5f-ac96-ea89fec87273,dorsum.nyc,available,6.98,43.98,medium,low,6,namecheap,,,08/08/2026 05:12
+060273b0-5a1d-4af6-9190-9a3ae6606c6a,sul.nyc,premium,640,29.5,high,low,3,namesilo,,,27/09/2026 10:19
+ef981360-d030-4a5f-ac96-ea89fec87273,dorsum.nyc,available,6.98,43.98,high,low,6,namecheap,,,08/08/2026 05:12
 5a126417-0c26-4bd9-9dd1-3b8862467d94,blackpool.nyc,available,31.99,31.99,high,low,9,namesilo,,,24/09/2026 02:57
+9cf39448-2081-461f-8bce-94ee03dd1cf8,batista.nyc,available,31.99,31.99,medium,low,7,namesilo,,,29/09/2026 11:07
 4548900a-b9ab-4357-a9b7-f1101bfa131c,ovens.nyc,available,31.99,31.99,medium,low,5,namesilo,,,20/09/2026 10:00
 5515be14-1821-45d3-bc9a-a86aaa9cbd82,southmost.nyc,available,31.99,31.99,high,medium,9,namesilo,,,10/09/2026 14:55
 a64f31b2-61c1-4b53-8712-517afa984839,pitcher.nyc,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 09:43
@@ -232,6 +251,7 @@ bb1256de-7d10-40c7-b37d-40ff09a3faa4,mediatory.nyc,available,6.98,43.98,medium,l
 4d33faa2-9292-4236-a07b-d7fe4c1e08dc,mediocre.nyc,available,32.98,43.98,high,low,8,namecheap,,,25/09/2026 18:51
 47f74680-0177-4b35-ae4e-23e203adc4de,profitably.nyc,available,32.98,43.98,high,low,10,namecheap,,,14/09/2026 20:29
 29941b7f-0773-4fab-9171-8221225ff9d2,theistic.nyc,available,31.99,31.99,medium,low,8,namesilo,,,11/09/2026 12:41
+295dfea1-319c-44dd-a38b-a3625252226f,differential.nyc,available,32.98,43.98,high,low,12,namecheap,,,29/09/2026 21:05
 0e8653eb-a53b-4b41-81e3-be9cfe28f8d5,amplifying.nyc,available,31.99,31.99,medium,low,10,namesilo,,,17/09/2026 20:45
 9af36e2f-f783-4b7a-8b99-7d3cf8a287fb,staying.nyc,available,31.99,31.99,high,low,7,namesilo,,,25/09/2026 12:05
 d4dabe9e-f851-4269-b430-91a0ba1b75a4,illusive.nyc,available,6.98,43.98,medium,low,8,namecheap,,,21/08/2026 20:13
@@ -239,24 +259,26 @@ d4dabe9e-f851-4269-b430-91a0ba1b75a4,illusive.nyc,available,6.98,43.98,medium,lo
 e0bafef7-c52c-4349-bbbf-cd49b26ec755,tweedy.nyc,available,6.98,43.98,medium,low,6,namecheap,,,21/08/2026 11:21
 b791875f-38c7-452a-a1f6-18dac0f94166,implied.nyc,available,31.99,31.99,high,low,7,namesilo,,,
 3ed96a48-bc1a-4a65-8ff4-dcc3a42f3468,pabulum.nyc,available,6.98,43.98,medium,low,7,namecheap,,,12/08/2026 18:49
-d06d6788-e1fc-4c59-b186-0e7c443191d6,incentive.nyc,available,43.98,,high,low,9,namecheap,,,
+d06d6788-e1fc-4c59-b186-0e7c443191d6,incentive.nyc,available,31.99,31.99,high,low,9,namesilo,,,29/09/2026 23:44
 bb8cdd34-411d-4f85-af7c-16e8a4db185c,aboriginal.nyc,available,31.99,31.99,high,low,10,namesilo,,,
 85eb48e9-c460-40d3-bb6f-7ea0bf5c0bc9,tyrol.nyc,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 20:40
 d4cda3ed-0f3c-43de-80f2-1663d91fd5d6,laziness.nyc,available,26.08,26.08,medium,low,8,spaceship,,,28/09/2026 17:35
-c73c88b9-73cf-41d3-80b8-4d3c555c4fba,sensing.nyc,available,31.99,31.99,high,low,7,namesilo,,,
-28ad2e59-82d1-4951-b708-2a731648e61a,blinding.nyc,available,6.98,43.98,medium,low,8,namecheap,,,10/08/2026 13:42
+c73c88b9-73cf-41d3-80b8-4d3c555c4fba,sensing.nyc,available,31.99,31.99,high,low,7,namesilo,,,29/09/2026 14:15
+28ad2e59-82d1-4951-b708-2a731648e61a,blinding.nyc,available,6.98,43.98,high,low,8,namecheap,,,10/08/2026 13:42
 929d7028-38fd-449b-926b-0c227acce7d6,buzzed.nyc,available,31.99,31.99,high,low,6,namesilo,,,
 a13dd756-e710-459d-b55e-f6fce4536a2d,uncontrollable.nyc,available,31.99,31.99,medium,low,14,namesilo,,,
 90417b44-0dfd-488f-b7b0-ed43c596f8a6,circuitry.nyc,available,31.99,31.99,high,low,9,namesilo,,,28/09/2026 02:48
 b9457bae-4738-4fde-be48-fd7cd5544ed9,embarrassing.nyc,available,31.99,31.99,high,low,12,namesilo,,,27/09/2026 06:37
 3f451684-6409-422d-a6b4-7d5068f0ae31,matte.nyc,available,31.99,31.99,high,low,5,namesilo,,,25/09/2026 17:39
-8c5829d0-e6a9-4889-a78d-e233ca177d4f,aorta.nyc,available,31.99,31.99,medium,low,5,namesilo,,,19/09/2026 16:04
+8c5829d0-e6a9-4889-a78d-e233ca177d4f,aorta.nyc,available,31.99,31.99,high,low,5,namesilo,,,19/09/2026 16:04
 21956fe0-3d9d-4815-80d5-56b96d1d9939,monetary.nyc,available,32.98,43.98,high,low,8,namecheap,,,25/09/2026 21:29
 bb6bd258-dd16-474b-84ac-03417c611379,afghani.nyc,available,31.99,31.99,medium,low,7,namesilo,,,
 75837cfc-e75e-47e4-b1e3-f88c15be118f,autopsy.nyc,available,31.99,31.99,high,low,7,namesilo,,,21/09/2026 07:38
 e45d15ef-08a5-4939-a90f-c9a3be7817da,relax.nyc,resell,,,high,low,5,,,,27/09/2026 06:03
 a7e3ae88-9551-411c-9600-7c30487f3471,malaysian.nyc,premium,625,46.99,high,low,9,name.com,,,24/08/2026 13:46
 46a39b57-8871-47b7-a2b2-5005aac2ceb3,carelessly.nyc,available,31.99,31.99,medium,low,10,namesilo,,,14/09/2026 05:19
+51e6d351-119d-48d4-9abe-6c72196f0df1,univ.nyc,available,31.99,31.99,high,low,4,namesilo,,,29/09/2026 21:43
+b8a25fae-f306-42cc-a3d8-e97d4a7d1fc2,hebrides.nyc,available,32.98,43.98,medium,low,8,namecheap,,,29/09/2026 13:01
 4e204ffa-a92e-4993-90fd-abbdf76277f7,fractions.nyc,available,31.99,31.99,medium,low,9,namesilo,,,20/09/2026 01:27
 43357d59-b196-4bfd-a2d3-b1f0d7e5bef9,skeletal.nyc,available,6.98,43.98,high,low,8,namecheap,,,10/08/2026 19:00
 a1493ebf-ed65-4d00-955f-460b760a7b37,unq.nyc,premium,640,29.5,medium,low,3,namesilo,,,20/09/2026 22:06
@@ -268,7 +290,7 @@ c9e04817-ea22-42a4-bff8-73b72d0dee19,peoria.nyc,available,31.99,31.99,high,low,6
 5b024aa7-d33f-4067-8848-19c81e642e9c,greenville.nyc,available,31.99,31.99,high,low,10,namesilo,,,25/09/2026 06:42
 b3b59de3-a3cd-4d8d-b76f-e2a24f5399c3,shenzhen.nyc,available,32.98,43.98,high,low,8,namecheap,,,29/09/2026 04:19
 127a4a59-b093-48f4-ab93-c2df36b72e7c,stringent.nyc,available,31.99,31.99,medium,low,9,namesilo,,,10/09/2026 22:40
-c24a43b2-a284-48d0-859f-6872d2ee4ab7,lesion.nyc,available,31.99,31.99,medium,low,6,namesilo,,,13/09/2026 13:28
+c24a43b2-a284-48d0-859f-6872d2ee4ab7,lesion.nyc,available,31.99,31.99,high,low,6,namesilo,,,13/09/2026 13:28
 3d89b7bf-cd37-4bc2-ace7-cd0207dc99f2,frederick.nyc,available,49.99,49.99,high,low,9,godaddy,,,28/09/2026 01:56
 031cfe38-7847-4b64-b57b-bedaa4622106,incorporated.nyc,resell,,,high,low,12,,,,28/09/2026 22:28
 9b1d94ea-a132-4ea7-888f-50d9167d88ff,frock.nyc,available,6.98,43.98,medium,low,5,namecheap,,,14/08/2026 18:55
@@ -279,6 +301,7 @@ cb655a03-3478-4a23-a3a8-bb74fd6c1a04,afterimage.nyc,available,31.99,31.99,high,l
 c0ef332e-7ec2-4e5b-b039-c99b01173c01,authorial.nyc,available,6.98,43.98,medium,low,9,namecheap,,,07/08/2026 16:19
 abe30f48-1f2a-4f18-b7aa-bccab7c44f00,responded.nyc,available,32.98,43.98,medium,low,9,namecheap,,,18/09/2026 18:02
 31ff83f7-164a-453a-8391-08525ae88749,perverted.nyc,available,6.98,43.98,medium,low,9,namecheap,,,14/08/2026 02:36
+24a8ca4a-a547-42dc-9663-da03b82c50db,constitutes.nyc,available,32.98,43.98,low,low,11,namecheap,,,30/09/2026 00:12
 bd53fb2a-177e-4f58-8881-667478f798cc,cdc.nyc,premium,640,29.5,high,low,3,namesilo,,,25/09/2026 22:11
 57ce0311-890e-47ee-b853-f80ddcaeb623,slack.nyc,available,6.98,43.98,high,low,5,namecheap,,,22/08/2026 21:24
 400e244d-a102-4339-9d53-57822bace55f,cystic.nyc,available,43.99,46.99,medium,low,6,name.com,,,13/08/2026 14:36
@@ -288,16 +311,18 @@ bd53fb2a-177e-4f58-8881-667478f798cc,cdc.nyc,premium,640,29.5,high,low,3,namesil
 eb7a4bf2-416d-408b-93ee-e52a51ae68b6,sickly.nyc,available,32.98,43.98,high,low,6,namecheap,,,
 088ff5d0-bc65-4d5f-bb54-a456d401315c,fleeting.nyc,available,6.98,43.98,high,low,8,namecheap,,,18/08/2026 07:51
 65b3902d-c38d-4cc2-89b6-415dbf99b508,xxxii.nyc,available,31.99,31.99,medium,low,5,namesilo,,,
-89e53d6e-4c88-4362-9776-88cf21ec60ab,soundly.nyc,available,32.98,43.98,medium,low,7,namecheap,,,16/09/2026 05:34
+6803ab4f-c2ef-451d-ba95-3b10ed18643c,reserves.nyc,available,31.99,31.99,high,low,8,namesilo,,,29/09/2026 13:26
+89e53d6e-4c88-4362-9776-88cf21ec60ab,soundly.nyc,available,32.98,43.98,high,low,7,namecheap,,,16/09/2026 05:34
 8feb584c-9724-4ee9-8e7f-b9b3832b71b4,biologic.nyc,available,6.98,43.98,high,low,8,namecheap,,,10/08/2026 02:14
 926081bc-ee37-4b23-bd6f-ba1a526b2d7e,colourize.nyc,available,6.98,43.98,medium,low,9,namecheap,,,12/08/2026 17:40
 45248736-ed10-457d-b44b-54aeb1d794d8,abysmal.nyc,available,31.99,31.99,medium,low,7,namesilo,,,
 3ee18ffa-5a61-4830-9e17-53ceea08507f,frozen.nyc,available,32.98,43.98,high,low,6,namecheap,,,24/09/2026 19:29
 d5bfb3aa-62ba-415b-a397-6a5e60940fab,proves.nyc,available,31.99,31.99,medium,low,6,namesilo,,,18/09/2026 07:04
+7953b97d-569f-4b5b-a689-5891ed2cfd13,spitting.nyc,available,31.99,31.99,medium,low,8,namesilo,,,29/09/2026 08:06
 1047ccc2-9f98-4356-8fbc-662b97674641,agendum.nyc,available,32.98,43.98,medium,low,7,namecheap,,,17/09/2026 17:05
 2f61a552-1181-44c2-9016-4cb098c4122a,personals.nyc,premium,6500,32.5,medium,low,9,namecheap,,,08/09/2026 05:02
-b10452dd-4545-4801-8778-381ff33d72ad,dutiful.nyc,available,6.98,43.98,medium,low,7,namecheap,,,14/08/2026 21:39
-236ae030-56f4-4b1f-b4ca-89060eb45436,aarhus.nyc,available,31.99,31.99,medium,low,6,namesilo,,,16/09/2026 13:27
+b10452dd-4545-4801-8778-381ff33d72ad,dutiful.nyc,available,6.98,43.98,high,low,7,namecheap,,,14/08/2026 21:39
+236ae030-56f4-4b1f-b4ca-89060eb45436,aarhus.nyc,available,31.99,31.99,high,low,6,namesilo,,,16/09/2026 13:27
 ce6a8bbb-1b05-41c8-8ae5-ca029222ba5b,unsorted.nyc,available,31.99,31.99,medium,low,8,namesilo,,,12/09/2026 04:50
 d7f940eb-ae57-4de9-9b9b-c576f9bba07d,castled.nyc,available,6.98,43.98,medium,low,7,namecheap,,,11/08/2026 20:28
 3ecb6514-0c83-4b0b-a4f3-362cc03247ef,sacked.nyc,available,32.98,43.98,medium,low,6,namecheap,,,24/09/2026 06:49
@@ -308,9 +333,9 @@ c582f3d0-822c-457f-8e67-b2d4652bed48,elaborate.nyc,available,31.99,31.99,high,lo
 81550945-0b1b-4dcb-83c5-a5a847f938d3,scored.nyc,available,31.99,31.99,medium,low,6,namesilo,,,27/09/2026 23:20
 35ea93c5-d6a9-434c-b008-73256c18dab0,louisiana.nyc,available,26.08,26.08,high,low,9,spaceship,,,28/09/2026 10:17
 a9cd2e62-e78b-416e-af2c-4d954233d3cc,flattering.nyc,available,6.98,43.98,high,low,10,namecheap,,,18/08/2026 06:57
-8dc2a9c4-56ff-4ceb-9dce-45d3e1b5e2f5,grazing.nyc,available,31.99,31.99,medium,low,7,namesilo,,,29/09/2026 01:08
-915f29c1-638b-4648-810b-a67f86e244d9,direction.nyc,available,31.99,31.99,high,low,9,namesilo,,,
-d9b9cd6d-8b20-4261-abb8-444ed33a697f,asceticism.nyc,available,32.98,43.98,medium,low,10,namecheap,,,20/09/2026 13:08
+8dc2a9c4-56ff-4ceb-9dce-45d3e1b5e2f5,grazing.nyc,available,31.99,31.99,high,low,7,namesilo,,,29/09/2026 01:08
+d9b9cd6d-8b20-4261-abb8-444ed33a697f,asceticism.nyc,available,32.98,43.98,high,low,10,namecheap,,,20/09/2026 13:08
+b462a53c-8d42-4d2f-a53e-5347a20b83da,deb.nyc,premium,640,29.5,medium,low,3,namesilo,,,29/09/2026 06:35
 d118df4a-6402-488b-98b0-032ce1557089,azo.nyc,premium,625,46.99,high,low,3,name.com,,,08/08/2026 02:17
 c01d6850-535c-4ca4-8596-5b909d0d7938,lousy.nyc,available,31.99,31.99,medium,low,5,namesilo,,,24/09/2026 01:33
 2fef145d-793c-4b5a-88d7-73ff05233982,beth.nyc,premium,302.5,29.5,medium,low,4,namesilo,,,23/09/2026 11:12
@@ -320,6 +345,7 @@ f8572a16-aa51-4e75-a4bc-2d47356e4f9b,ascites.nyc,available,31.99,31.99,medium,lo
 387bed51-27c8-45e3-b2b4-c3b5fd770bdf,graduated.nyc,available,6.98,43.98,high,low,9,namecheap,,,11/08/2026 14:18
 6ed7f892-425f-4bb0-903f-e4995d50332f,palsied.nyc,available,31.99,31.99,medium,low,7,namesilo,,,05/09/2026 00:19
 35ef912d-f867-43d0-9201-dd337d6784a4,nagoya.nyc,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 10:28
+55332dc9-49d6-4f5f-aa38-bdd1df8a543b,milestone.nyc,available,26.08,26.08,high,low,9,spaceship,,,30/09/2026 02:17
 9e892ed1-6a89-4940-a3c4-5d4a83f287ef,scalene.nyc,available,31.99,31.99,medium,low,7,namesilo,,,09/09/2026 22:25
 cab50820-e84f-4210-88dd-8465126ae069,godfrey.nyc,available,43.99,46.99,high,low,7,name.com,,,25/09/2026 18:26
 9f714fb8-0d77-4c3d-ba53-4fe615e7287d,age.nyc,premium,1107,29.5,high,low,3,namesilo,,,19/09/2026 07:13
@@ -343,29 +369,33 @@ e3be2efa-5b74-471a-911c-fc04d64275fd,speaker.nyc,available,,,high,low,7,,,,
 00f077ab-a471-474e-a884-43453888d775,wilted.nyc,available,6.98,43.98,medium,low,6,namecheap,,,23/08/2026 13:24
 925ac84a-bd4d-484e-9332-f046a92687f8,discursive.nyc,available,6.98,43.98,medium,low,10,namecheap,,,14/08/2026 06:00
 2ccffa03-5242-47a3-ab77-6119c3ae6429,nailed.nyc,available,31.99,31.99,medium,low,6,namesilo,,,18/09/2026 21:49
+651a4fd8-20f6-4bfe-bb8d-4ba30c075d70,hiroshi.nyc,available,31.99,31.99,high,low,7,namesilo,,,29/09/2026 15:38
 52c4e079-19d4-4d6b-9afa-33c457e021c2,buffet.nyc,available,31.99,31.99,high,low,6,namesilo,,,19/09/2026 17:05
 c91142ec-9e83-4ea1-942f-857253983702,absorber.nyc,available,32.98,43.98,high,low,8,namecheap,,,16/09/2026 18:17
 2027cb90-31f3-47cc-b3ca-0ab437c9db40,water.nyc,available,,,high,medium,5,,,,
 b4d2e99b-b564-4ff0-a0c1-d8a5c2c8cd4f,attempting.nyc,available,26.08,26.08,medium,low,10,spaceship,,,28/09/2026 12:29
-03e446a3-3f11-4406-9a8c-cf09d147ea1d,rhapsodic.nyc,available,6.98,43.98,medium,low,9,namecheap,,,14/08/2026 23:52
+03e446a3-3f11-4406-9a8c-cf09d147ea1d,rhapsodic.nyc,available,6.98,43.98,high,low,9,namecheap,,,14/08/2026 23:52
 51ff3ebd-60bc-4189-8d7b-4f7972af0e0c,footing.nyc,available,31.99,31.99,high,low,7,namesilo,,,22/09/2026 11:02
 59db011a-bf1d-4db9-9c71-9261f15af9e7,kilogramme.nyc,available,43.98,,medium,low,10,namecheap,,,
 9c968213-cd25-420e-a918-a68d72ffd29c,greater.nyc,resell,,,high,low,7,Go Australia Domains Inc,08/10/2014 15:00,07/10/2027 23:59,26/09/2026 06:29
 8d945197-f9f5-41f7-975f-8279668a7ca4,competency.nyc,available,31.99,31.99,high,low,10,namesilo,,,24/09/2026 16:48
 b5268319-9dc0-46fa-af14-8e28501cda82,sopping.nyc,available,31.99,31.99,medium,low,7,namesilo,,,14/09/2026 14:30
-ebd9d8c5-dd93-4a68-8102-69c20dcb6683,suck.nyc,available,31.99,31.99,high,low,4,namesilo,,,
+ebd9d8c5-dd93-4a68-8102-69c20dcb6683,suck.nyc,available,32.98,43.98,high,low,4,namecheap,,,30/09/2026 01:54
 8f1a061d-ce65-44e9-8742-16444f8e866f,dishy.nyc,available,6.98,43.98,medium,low,5,namecheap,,,14/08/2026 11:03
 6fd0388f-2b15-4d1b-b0d2-b2f2f0f35e7b,abortus.nyc,available,31.99,31.99,medium,low,7,namesilo,,,16/09/2026 16:40
 bd7776af-b5cc-433f-ab35-a5981aba8c78,css.nyc,resell,,,high,medium,3,,,,28/09/2026 11:47
+d6cf925b-bf7b-4175-ae05-575d0844a9b8,mustache.nyc,available,31.99,31.99,high,low,8,namesilo,,,29/09/2026 19:43
 c2353ac5-a9af-4ab8-8c75-f4df780e7dd2,camwood.nyc,available,31.99,31.99,medium,low,7,namesilo,,,17/09/2026 15:22
 d188cb44-595c-4319-8ea5-2876f8447df5,wheels.nyc,premium,650,32.5,high,low,6,namecheap,,,17/09/2026 12:21
-d65d50bb-515b-4965-b31e-3c491dd5d212,barron.nyc,available,32.98,43.98,medium,low,6,namecheap,,,27/09/2026 08:02
+d65d50bb-515b-4965-b31e-3c491dd5d212,barron.nyc,available,32.98,43.98,high,low,6,namecheap,,,27/09/2026 08:02
+f1ca34e4-9c58-412f-a24e-0f2f98ec7dfe,jacobi.nyc,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 07:21
 bbd4992f-9c28-41a7-8ef8-81195b451652,comically.nyc,available,31.99,31.99,medium,low,9,namesilo,,,14/09/2026 07:31
+b3c26fd3-344d-4d90-bfc8-e49d0ffa4885,felicia.nyc,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 18:52
 15fbf03c-38ae-4a5e-b4a9-9d808e8ebc01,motorcar.nyc,available,31.99,31.99,high,low,8,namesilo,,,21/09/2026 05:29
 f2b28644-9c97-49f1-9d3a-215f785d1081,springy.nyc,available,6.98,43.98,high,low,7,namecheap,,,10/08/2026 21:49
 39363081-4ec9-4b5f-9edb-a26f87018429,recruited.nyc,available,31.99,31.99,medium,low,9,namesilo,,,18/09/2026 00:53
 14223c63-01c6-4860-9103-da7f45699d83,grapes.nyc,available,31.99,31.99,high,low,6,namesilo,,,28/09/2026 12:35
-186a1800-6ea6-440d-a8a8-041500901ba0,gusty.nyc,available,6.98,43.98,medium,low,5,namecheap,,,20/08/2026 21:10
+186a1800-6ea6-440d-a8a8-041500901ba0,gusty.nyc,available,6.98,43.98,high,low,5,namecheap,,,20/08/2026 21:10
 48cbab3a-fe51-4be8-b45b-841c6aa81802,aquino.nyc,available,31.99,31.99,medium,low,6,namesilo,,,28/09/2026 22:09
 f011bb26-50bd-48fb-83c0-0f139c679caf,sounding.nyc,available,31.99,31.99,high,low,8,namesilo,,,25/09/2026 14:20
 b7226578-ac6d-4ac6-9273-086eaa8c286c,eon.nyc,premium,640,29.5,high,low,3,namesilo,,,17/09/2026 12:38
@@ -374,7 +404,7 @@ ac96ea73-1ba3-44f9-b97d-388676f52f87,orlando.nyc,premium,302.5,29.5,high,low,7,n
 b64d1303-3c1a-4575-ac5c-35ecca128ce7,lists.nyc,premium,640,29.5,high,low,5,namesilo,,,17/09/2026 08:32
 24ee66ad-af8e-4980-a53d-38d03650980b,dionysian.nyc,available,6.98,43.98,medium,low,9,namecheap,,,14/08/2026 08:24
 f3585c3a-89f4-4916-894f-7e81a24e0871,futurist.nyc,available,6.98,43.98,high,low,8,namecheap,,,18/08/2026 19:19
-572fce35-77e6-4a61-978a-95e0cd3fec77,enormously.nyc,available,31.99,31.99,medium,low,10,namesilo,,,14/09/2026 15:47
+572fce35-77e6-4a61-978a-95e0cd3fec77,enormously.nyc,available,31.99,31.99,high,low,10,namesilo,,,14/09/2026 15:47
 4fe2b5f3-5196-4ed8-82d6-8b999f912ae4,cords.nyc,available,32.98,43.98,medium,low,5,namecheap,,,24/09/2026 18:14
 498c7d0e-eb6a-4d7c-bea8-5bb987779c16,strong.nyc,resell,,,high,low,6,Hello Internet Corp.,23/12/2015 17:39,22/12/2027 23:59,26/09/2026 09:21
 bd698470-109a-4484-9ce9-f8795a040547,newsy.nyc,available,6.98,43.98,high,low,5,namecheap,,,20/08/2026 17:15
@@ -382,12 +412,13 @@ bd698470-109a-4484-9ce9-f8795a040547,newsy.nyc,available,6.98,43.98,high,low,5,n
 5019aea6-f617-4056-b884-872b97081132,loathing.nyc,available,43.99,46.99,medium,low,8,name.com,,,16/09/2026 15:27
 e0aa6f4f-f33a-4b9a-a8d3-180f80b0b75d,tennessee.nyc,available,31.99,31.99,high,low,9,namesilo,,,28/09/2026 11:00
 ee60e22d-695e-468e-8540-30ee0b9d6d2f,silty.nyc,available,31.99,31.99,high,medium,5,namesilo,,,10/09/2026 08:10
+52016ac5-c097-44de-9e2d-4430e2f9af31,hussey.nyc,available,31.99,31.99,high,low,6,namesilo,,,29/09/2026 15:04
 e9397749-6f39-4e73-a59a-c4785e398e9b,tuppeny.nyc,available,31.99,31.99,medium,low,7,namesilo,,,10/09/2026 09:12
-3b8a7629-805a-475b-96ef-46055a1e819b,luncheon.nyc,available,31.99,31.99,high,low,8,namesilo,,,
+3b8a7629-805a-475b-96ef-46055a1e819b,luncheon.nyc,available,31.99,31.99,high,low,8,namesilo,,,29/09/2026 13:43
 f42f5798-d392-4a1f-9a83-17580275e62d,chanted.nyc,available,6.98,43.98,medium,low,7,namecheap,,,12/08/2026 02:00
 9b8b2e4d-ac34-47b9-9e2c-7743c405f2b6,keno.nyc,available,31.99,31.99,high,low,4,namesilo,,,22/09/2026 20:42
 4870dada-c359-4688-910a-bd237aa944b2,campanula.nyc,available,31.99,31.99,high,low,9,namesilo,,,23/09/2026 06:05
-1661c934-d5e3-4e81-9f50-3b9e27e867c9,distinguish.nyc,available,26.08,26.08,medium,low,11,spaceship,,,28/09/2026 21:05
+1661c934-d5e3-4e81-9f50-3b9e27e867c9,distinguish.nyc,available,26.08,26.08,high,low,11,spaceship,,,28/09/2026 21:05
 4eaba1f2-2a46-492f-8eb8-d6d42965340f,orienting.nyc,available,32.98,43.98,high,low,9,namecheap,,,04/09/2026 17:56
 0a98d02d-8881-46f2-9578-e529bcd8659f,bryn.nyc,available,26.08,26.08,medium,low,4,spaceship,,,28/09/2026 07:45
 f82c8f30-fb62-480b-91bf-340c1bbdb925,crownless.nyc,available,6.98,43.98,medium,low,9,namecheap,,,13/08/2026 08:38
@@ -395,18 +426,21 @@ f82c8f30-fb62-480b-91bf-340c1bbdb925,crownless.nyc,available,6.98,43.98,medium,l
 be5cfcc2-ca75-4607-b234-a70a86b7b636,scholarship.nyc,premium,1107,29.5,high,low,11,namesilo,,,28/09/2026 03:18
 6aedb8b2-de2b-4f14-88ab-e2f52992bc2d,unemployment.nyc,available,,,high,low,12,,,,
 63dd8a88-95da-4e37-9518-2802c2ba8d58,soleless.nyc,available,31.99,31.99,low,low,8,namesilo,,,10/09/2026 13:37
-d4da14c9-6c5b-4f89-ae94-5a254500ebec,transitive.nyc,available,32.98,43.98,medium,low,10,namecheap,,,11/09/2026 18:55
+6151b6a3-7805-49be-a09e-e69194c17da8,jeffery.nyc,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 09:37
+b3d9e1c8-476d-42de-94cc-43626f941fb6,optimism.nyc,available,31.99,31.99,high,low,8,namesilo,,,29/09/2026 07:46
+d4da14c9-6c5b-4f89-ae94-5a254500ebec,transitive.nyc,available,32.98,43.98,high,low,10,namecheap,,,11/09/2026 18:55
 2fa4364a-8541-446f-b08a-006d03cf86b1,anglican.nyc,available,31.99,31.99,high,low,8,namesilo,,,
 9671b672-d80e-43e2-9a93-141f1f12cb9b,columbine.nyc,available,31.99,31.99,medium,low,9,namesilo,,,19/09/2026 23:13
 90619e87-2a5d-4037-b7f3-1cb0c9414d11,countless.nyc,available,31.99,31.99,high,low,9,namesilo,,,24/09/2026 00:28
-d26d3678-a3f1-4330-8a06-27434faf5138,cricket.nyc,premium,1250,,high,low,7,name.com,,,
+d26d3678-a3f1-4330-8a06-27434faf5138,cricket.nyc,premium,1107,29.5,high,low,7,namesilo,,,29/09/2026 12:00
 bd86e459-2f08-4158-957b-0b1d992b0ebc,sheridan.nyc,available,31.99,31.99,high,low,8,namesilo,,,25/09/2026 10:21
 fc4a753c-75c8-4a6b-b0d2-ba38a6ef7382,epos.nyc,available,6.98,43.98,high,low,4,namecheap,,,17/08/2026 10:28
 f62c4641-5ff8-45d6-b004-023d94c91ad5,sloped.nyc,available,6.98,43.98,medium,low,6,namecheap,,,07/08/2026 04:26
 4ac7bc1c-6c53-4857-9cb2-142c13ab4779,examined.nyc,available,26.97,26.97,medium,low,8,dynadot,,,28/09/2026 08:42
 61af33c0-2024-4357-b0e7-08d9d6822f71,haig.nyc,available,26.97,26.97,medium,low,4,dynadot,,,28/09/2026 12:12
+7cd41a20-e84e-4b33-9744-b0cb00f2d1f5,calculating.nyc,available,31.99,31.99,high,low,11,namesilo,,,29/09/2026 14:44
 b436126d-7a79-4f10-95d6-0389d5b984ac,langdon.nyc,available,31.99,31.99,medium,low,7,namesilo,,,28/09/2026 16:35
-32c3de5d-6450-457c-978b-12421878fb17,biotite.nyc,available,32.98,43.98,medium,low,7,namecheap,,,23/09/2026 19:13
+32c3de5d-6450-457c-978b-12421878fb17,biotite.nyc,available,32.98,43.98,high,low,7,namecheap,,,23/09/2026 19:13
 91fe5aed-279d-4464-a492-c23c7ab5154a,organised.nyc,available,31.99,31.99,high,low,9,namesilo,,,26/09/2026 00:28
 25c85f55-9ddf-47d1-b06f-aadf45d6539b,nuevo.nyc,available,31.99,31.99,high,low,5,namesilo,,,28/09/2026 04:18
 1f34d666-77ec-4c76-a54f-3479a3701b25,iniquity.nyc,available,6.98,43.98,medium,low,8,namecheap,,,17/08/2026 15:08
@@ -416,6 +450,7 @@ d37ca71a-1298-4d37-bc7f-29c3115af8d4,spangly.nyc,available,6.98,43.98,medium,low
 0f6ab9c6-193a-42fc-8729-38e2b54fdc9b,guyanese.nyc,available,6.98,43.98,high,low,8,namecheap,,,20/08/2026 21:17
 b98e6680-a0bc-4739-902c-3ecee1bdd85d,rouser.nyc,available,31.99,31.99,medium,low,6,namesilo,,,20/09/2026 08:33
 0d7653de-f5df-4561-8062-be89a6c9b073,shallow.nyc,available,26.08,26.08,medium,low,7,spaceship,,,27/09/2026 20:23
+f959f60f-95f8-4b0e-a304-4d3b75d79e25,kano.nyc,available,26.08,26.08,high,low,4,spaceship,,,29/09/2026 09:07
 bd6dc740-5f94-4470-8500-e6bcdee0e3ff,wilkinson.nyc,available,31.99,31.99,high,low,9,namesilo,,,25/09/2026 10:42
 d199b363-b5e2-40b1-9d07-6a64d76fc6b1,mangold.nyc,available,31.99,31.99,medium,low,7,namesilo,,,23/09/2026 11:02
 1b361d89-8386-42ae-b050-d96f641977ba,expires.nyc,available,31.99,31.99,medium,low,7,namesilo,,,20/09/2026 13:50
@@ -426,13 +461,16 @@ d199b363-b5e2-40b1-9d07-6a64d76fc6b1,mangold.nyc,available,31.99,31.99,medium,lo
 4b5a9792-0f03-4d27-8206-6ef7cd1a32c3,oneiric.nyc,available,31.99,31.99,medium,low,7,namesilo,,,04/09/2026 15:12
 ecc4275d-7b6b-490b-af6a-4ab09af574d9,dearie.nyc,available,43.99,46.99,high,low,6,name.com,,,13/08/2026 18:19
 7b57ee4b-06d8-403c-a796-dfa7ef6d627f,whizz.nyc,available,32.98,43.98,high,low,5,namecheap,,,21/09/2026 18:06
+063d74a8-330a-41b4-8332-74c2d75e492c,inglis.nyc,available,31.99,31.99,medium,low,6,namesilo,,,29/09/2026 14:51
 54ec93c9-4361-488b-855b-ee58fd5c52ef,shambolic.nyc,available,31.99,31.99,medium,low,9,namesilo,,,10/09/2026 05:51
 06486f46-56f9-41a4-9566-6d12b9c4024b,confide.nyc,available,,,high,low,7,,,,
+8c731720-0fda-4122-8c92-ddcbef12f1b3,jun.nyc,premium,1300,32.5,high,low,3,namecheap,,,29/09/2026 15:18
 b69cd70d-595f-4924-bb32-74ea91c1982b,toter.nyc,available,32.98,43.98,medium,low,5,namecheap,,,22/09/2026 21:16
+c319ffb0-8428-4089-b27f-d6f112d7f1db,earthworks.nyc,available,32.98,43.98,medium,low,10,namecheap,,,29/09/2026 17:50
 74e4b9c7-81c7-495d-96fe-8b13da44b4c5,quelled.nyc,available,31.99,31.99,medium,low,7,namesilo,,,09/09/2026 08:24
 956becdf-c185-44ff-a87b-ab2e61676415,nodding.nyc,available,6.98,43.98,high,low,7,namecheap,,,12/08/2026 00:48
 533a2bfc-c516-4293-83f7-b8fc23e2755a,barbarous.nyc,available,6.98,43.98,medium,low,9,namecheap,,,08/08/2026 15:40
-42018020-68bf-44fa-a61e-d99224c1c112,woodsy.nyc,available,6.98,43.98,medium,low,6,namecheap,,,06/08/2026 13:04
+42018020-68bf-44fa-a61e-d99224c1c112,woodsy.nyc,available,6.98,43.98,high,low,6,namecheap,,,06/08/2026 13:04
 8be35b30-fba0-4e12-8d82-711d9dfb13f6,lusty.nyc,available,6.98,43.98,high,low,5,namecheap,,,12/08/2026 20:20
 79795ad7-844c-4c77-843e-96ff0cf08c7c,pickled.nyc,available,9.99,46.99,high,medium,7,name.com,,,08/09/2026 19:30
 daf1edbe-fa14-413a-abff-3e6ef6160a0b,diatomic.nyc,available,6.98,43.98,medium,low,8,namecheap,,,14/08/2026 06:19
@@ -444,16 +482,17 @@ f479159c-3734-4c8d-a933-f46263429e9f,toady.nyc,available,31.99,31.99,medium,low,
 7a0cec80-c2eb-4add-b168-c4010740a961,execrable.nyc,available,31.99,31.99,medium,low,9,namesilo,,,
 23156d3e-0923-4060-84ab-2348a8aa4f16,appendage.nyc,available,32.98,43.98,medium,low,9,namecheap,,,19/09/2026 20:35
 40fc775e-4c50-456b-a429-3237b32319bc,abs.nyc,premium,640,29.5,high,low,3,namesilo,,,16/09/2026 17:29
-6141ce98-dae4-410e-b893-3c4b1a0126fe,irritate.nyc,available,31.99,31.99,medium,low,8,namesilo,,,
-536365f4-a8bc-464f-9f1f-f406128430d5,ashford.nyc,available,31.99,31.99,medium,low,7,namesilo,,,29/09/2026 04:30
+6141ce98-dae4-410e-b893-3c4b1a0126fe,irritate.nyc,available,31.99,31.99,medium,low,8,namesilo,,,29/09/2026 14:40
+536365f4-a8bc-464f-9f1f-f406128430d5,ashford.nyc,available,31.99,31.99,high,low,7,namesilo,,,29/09/2026 04:30
 cfce4da3-2176-45d2-b99b-8372b1e77d68,apocynum.nyc,available,32.98,43.98,medium,low,8,namecheap,,,19/09/2026 18:15
-a573e9d2-fa21-4b86-ba8e-3640f5226e0c,disc.nyc,available,31.99,31.99,high,low,4,namesilo,,,
+a573e9d2-fa21-4b86-ba8e-3640f5226e0c,disc.nyc,available,31.99,31.99,high,low,4,namesilo,,,29/09/2026 15:12
+6cf55702-d608-46eb-a598-3ad2629d703e,indra.nyc,available,26.97,26.97,high,low,5,dynadot,,,29/09/2026 13:07
 9dda3dea-1e13-45c3-b732-512423d0b5d2,hess.nyc,available,31.99,31.99,high,low,4,namesilo,,,27/09/2026 03:38
 d6d41831-02da-413c-9eab-4311a2e7d056,knots.nyc,available,31.99,31.99,medium,low,5,namesilo,,,28/09/2026 08:23
 5a7c203f-8ccc-43c9-b2dc-e1d72f1d57f9,plc.nyc,premium,640,29.5,high,low,3,namesilo,,,25/09/2026 12:32
 b5b54855-b116-4dd3-91ea-c269fc3fe30e,agnostical.nyc,available,32.98,43.98,medium,low,10,namecheap,,,
 582e484b-aa60-4590-b7cb-490771a9cee8,responsive.nyc,available,31.99,31.99,high,low,10,namesilo,,,22/09/2026 06:49
-0d46576d-fa7f-4da5-b873-879a00466f80,buttery.nyc,available,32.98,43.98,medium,low,7,namecheap,,,19/09/2026 18:30
+0d46576d-fa7f-4da5-b873-879a00466f80,buttery.nyc,available,32.98,43.98,high,low,7,namecheap,,,19/09/2026 18:30
 d4381c7a-16ad-4034-bfed-f4a4fff29a20,voltaire.nyc,available,32.98,43.98,high,low,8,namecheap,,,20/09/2026 08:29
 8f9f97b6-4c20-4d89-86dc-efeb000fa5b8,twiggy.nyc,available,32.98,43.98,medium,low,6,namecheap,,,11/09/2026 21:34
 70c1d243-151c-414c-8309-642784f007ff,abrader.nyc,available,31.99,31.99,medium,low,7,namesilo,,,16/09/2026 16:48
@@ -468,14 +507,16 @@ c7067e86-4b5f-4fd2-9326-18af594d9917,fulgid.nyc,available,31.99,31.99,medium,low
 2da89a38-68bf-42c7-ad11-55f2a09136d0,bandmaster.nyc,available,31.99,31.99,high,low,10,namesilo,,,22/09/2026 01:26
 8e004716-e344-4e0d-bece-16b8b7d1ac48,granddaughter.nyc,available,31.99,31.99,high,low,13,namesilo,,,
 9cdfe4d4-75c5-4d78-91b9-87d1aedef882,distaste.nyc,available,31.99,31.99,medium,low,8,namesilo,,,19/09/2026 14:55
-5d6b3b19-577c-4710-8a35-4c82934f1aea,stably.nyc,available,31.99,31.99,medium,low,6,namesilo,,,16/09/2026 06:43
+5d6b3b19-577c-4710-8a35-4c82934f1aea,stably.nyc,available,31.99,31.99,high,low,6,namesilo,,,16/09/2026 06:43
 1e3fb7e5-c1fa-4427-9b54-c268669e405b,tormented.nyc,available,31.99,31.99,medium,low,9,namesilo,,,
 b85eb007-1e5f-42cc-b980-37f9c195bf28,retaliator.nyc,available,32.98,43.98,medium,low,10,namecheap,,,21/09/2026 08:57
+f96898f3-8e8d-4b07-865e-63102dfd4f23,deceive.nyc,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 20:40
 bef17f70-cc07-45d9-9bbb-42e284d0c141,asana.nyc,available,31.99,31.99,high,low,5,namesilo,,,20/09/2026 12:49
 32412b46-6251-48d8-8d26-184c16378cea,avicennia.nyc,available,31.99,31.99,medium,low,9,namesilo,,,21/09/2026 09:24
 8b188d30-c1b4-4732-8997-7c319890fbf3,session.nyc,available,31.99,31.99,high,low,7,namesilo,,,28/09/2026 17:16
 15b5d2db-75e6-4c77-8dbb-e1ab088e00f9,kimberly.nyc,premium,258.95,26.08,medium,low,8,spaceship,,,28/09/2026 08:56
 03ac67c5-6f51-4bb9-be68-1446bd0804b5,exact.nyc,available,31.99,31.99,high,low,5,namesilo,,,24/09/2026 15:46
+0450de97-a696-4672-adb8-adab311cad3f,rupture.nyc,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 12:14
 3405a131-826d-4a38-b053-e683af7677b1,wore.nyc,available,31.99,31.99,medium,low,4,namesilo,,,
 bbb86e17-9c8d-49f8-a929-f36587e2f6e1,palatal.nyc,available,31.99,31.99,medium,low,7,namesilo,,,04/09/2026 23:18
 709abf0a-bbab-4b21-bcba-7bdcca131f93,feisty.nyc,available,6.98,43.98,high,low,6,namecheap,,,18/08/2026 00:45
@@ -486,7 +527,7 @@ a0ec326a-074d-4451-bba0-329a7817c7fd,folks.nyc,available,31.99,31.99,high,low,5,
 e1bfbf30-d69c-496e-b656-d25745ab23aa,eventful.nyc,available,6.98,43.98,high,low,8,namecheap,,,12/08/2026 22:36
 be452e11-5284-47a0-85a8-3e49d7a2f19a,transmit.nyc,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 04:29
 4cab4b94-5614-422b-b728-de5bb88681ed,bodacious.nyc,available,6.98,43.98,high,low,9,namecheap,,,10/08/2026 16:42
-ea60e450-6055-44ed-9f29-777c8a7055c1,tuesdays.nyc,available,43.98,,medium,low,8,namecheap,,,
+ea60e450-6055-44ed-9f29-777c8a7055c1,tuesdays.nyc,available,43.98,,high,low,8,namecheap,,,
 d175148b-c339-40e0-b112-af82c95ceff5,squealer.nyc,available,31.99,31.99,medium,low,8,namesilo,,,23/09/2026 11:32
 702034f7-ce98-456c-b3af-d83c8944ccd0,tks.nyc,premium,625,,high,low,3,name.com,,,
 a620d60b-48ba-41e1-aed9-e288934bdee5,seraphic.nyc,available,6.98,43.98,high,low,8,namecheap,,,12/08/2026 04:26
@@ -499,24 +540,28 @@ ef5139bb-ff96-4aab-956a-622b53ed6cf1,frankish.nyc,available,6.98,43.98,medium,lo
 214727cb-3dd6-4ffe-b852-caf190c15c74,isolation.nyc,available,32.98,43.98,high,low,9,namecheap,,,24/09/2026 16:00
 e08960c4-8cc6-4993-8b92-663258e6d22d,beech.nyc,available,31.99,31.99,high,low,5,namesilo,,,23/09/2026 00:02
 0888632d-cdde-47da-ae19-996c0696e897,affair.nyc,premium,3450,29.5,high,low,6,namesilo,,,17/09/2026 13:59
+af8efca2-59f1-4b7c-a4a7-ff76f8dd3ad2,jeanette.nyc,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 09:37
 6773fba6-33e5-4cf5-be73-8c48b16579cd,snugly.nyc,available,31.99,31.99,medium,low,6,namesilo,,,16/09/2026 03:31
 df4b51da-32c1-49f3-b964-725a0c7d619a,tatum.nyc,available,31.99,31.99,high,low,5,namesilo,,,20/09/2026 10:00
 6fedcc55-4a73-448f-87c9-65ef728b7a0a,patricia.nyc,premium,302.5,29.5,medium,low,8,namesilo,,,28/09/2026 16:20
 d0232427-147a-436f-bfc0-378b84f90d8b,chocolates.nyc,available,26.26,26.26,high,low,10,porkbun,,,28/09/2026 06:45
 cddc6809-89fc-4cc5-bf5c-9b4d8e2f14c3,yugoslav.nyc,available,31.99,31.99,high,high,8,namesilo,,,13/09/2026 14:51
-05f0d795-6bb1-43d1-a0b9-bee886db2bd3,upstage.nyc,available,31.99,31.99,medium,low,7,namesilo,,,
+05f0d795-6bb1-43d1-a0b9-bee886db2bd3,upstage.nyc,available,31.99,31.99,high,low,7,namesilo,,,
 b2eea8ce-11ed-4bc1-9b4f-ea4605e34d46,yea.nyc,premium,1300,32.5,high,low,3,namecheap,,,16/09/2026 11:48
 9299e76a-ebdc-4425-bf84-2a33755026db,norris.nyc,available,31.99,31.99,high,low,6,namesilo,,,23/09/2026 08:18
 3371e15b-e4c2-44b1-9530-71c9166e2c48,aerator.nyc,available,31.99,31.99,medium,low,7,namesilo,,,17/09/2026 12:47
 5acf77b4-6e7f-442d-9edc-678c901a481c,headstrong.nyc,available,6.98,43.98,medium,low,10,namecheap,,,18/08/2026 16:35
 e53dba62-8d8b-465e-a60a-65919f7ef996,birder.nyc,available,43.99,46.99,high,low,6,name.com,,,23/09/2026 20:38
-268b3584-db2f-4ccf-8d64-ebaffbb0e407,trucks.nyc,premium,3450,29.5,medium,low,6,namesilo,,,25/09/2026 06:07
+268b3584-db2f-4ccf-8d64-ebaffbb0e407,trucks.nyc,premium,2587.7,26.08,high,low,6,spaceship,,,29/09/2026 08:57
 1c1d6044-0731-402f-99bc-9c18e435ffd8,bankbook.nyc,available,31.99,31.99,high,low,8,namesilo,,,22/09/2026 02:44
+e8505547-1b7b-4d7b-a0c5-bca9153b4096,bids.nyc,resell,,,high,low,4,,,,29/09/2026 15:47
+4dd7793d-d0b9-4824-a6e7-cc68c3fb2217,enterprises.nyc,premium,258.95,26.08,high,low,11,spaceship,,,29/09/2026 11:23
 bdaf738f-3dd6-4256-8aca-e741d6bde773,blate.nyc,available,6.98,43.98,medium,low,5,namecheap,,,10/08/2026 13:35
-57a1c7d1-278e-4e48-b200-3db65cd2a501,thinkable.nyc,available,31.99,31.99,medium,low,9,namesilo,,,11/09/2026 13:28
+57a1c7d1-278e-4e48-b200-3db65cd2a501,thinkable.nyc,available,31.99,31.99,high,low,9,namesilo,,,11/09/2026 13:28
 8d2129eb-804e-40e4-8391-a58612f63f0f,linelike.nyc,available,6.98,43.98,medium,low,8,namecheap,,,23/08/2026 15:03
 baedc7a6-0ea0-4221-8255-ac562fd2df90,notably.nyc,available,31.99,31.99,medium,low,7,namesilo,,,15/09/2026 16:54
 7ff131df-1dea-4c69-ac40-3c292fedbe1c,destructive.nyc,available,43.98,,medium,low,11,namecheap,,,
+27e669bf-3d6d-4b46-bfc6-5dae523b1ab2,multilingual.nyc,available,26.08,26.08,high,low,12,spaceship,,,29/09/2026 20:52
 b0e1bbed-e93a-4bbf-8e31-c207f03807fb,abel.nyc,premium,65,32.5,high,low,4,namecheap,,,16/09/2026 14:57
 bdd64d3f-85b7-46e8-835c-804a9ac34059,express.nyc,premium,1300,32.5,high,low,7,namecheap,,,24/09/2026 16:04
 6f3e8c11-fa6f-4b99-9d58-80ec016cd106,nitric.nyc,available,6.98,43.98,medium,low,6,namecheap,,,08/08/2026 02:58
@@ -529,25 +574,27 @@ f8621afb-9423-4444-84de-b5ff9ca1e35e,chorale.nyc,available,6.98,43.98,high,low,7
 0ab845da-f07c-4183-b1cc-6130c70ab45b,nub.nyc,premium,640,29.5,high,low,3,namesilo,,,14/09/2026 23:53
 8b5ff63a-08d6-4e5b-8fbb-6afa0c305d72,scrape.nyc,available,31.99,31.99,high,low,6,namesilo,,,16/09/2026 16:59
 e9c35899-c1cb-4bcc-baf3-ef541734d685,carlton.nyc,available,31.99,31.99,high,low,7,namesilo,,,25/09/2026 15:21
-47b19f0b-242b-474e-a920-9eb00c843e5f,emboldened.nyc,available,6.98,43.98,medium,low,10,namecheap,,,16/08/2026 10:22
+47b19f0b-242b-474e-a920-9eb00c843e5f,emboldened.nyc,available,6.98,43.98,high,low,10,namecheap,,,16/08/2026 10:22
 ac2fb05d-5c85-4012-b59e-826370dd8018,slaty.nyc,available,31.99,31.99,medium,low,5,namesilo,,,10/09/2026 10:19
 ab257428-b372-46b8-ab04-212498ea2fed,smoked.nyc,resell,,,medium,low,6,"GoDaddy.com, LLC",16/03/2019 00:27,16/03/2027 00:27,26/09/2026 09:06
-b0a7d2d1-0033-4b95-a61b-59f50628e11d,vigor.nyc,available,31.99,31.99,high,low,5,namesilo,,,
+b0a7d2d1-0033-4b95-a61b-59f50628e11d,vigor.nyc,available,32.98,43.98,high,low,5,namecheap,,,29/09/2026 22:25
 ee4da956-ee54-42cc-bf4b-52300fc32c2f,angara.nyc,available,31.99,31.99,medium,low,6,namesilo,,,19/09/2026 05:44
 51db2cb5-b33a-4932-bcfe-70aa025dbc65,significance.nyc,available,26.08,26.08,high,low,12,spaceship,,,28/09/2026 08:20
 19a855e2-cfbb-4ad8-8f94-9f803ab23014,fruity.nyc,available,6.98,43.98,high,low,6,namecheap,,,06/08/2026 21:00
 1e4af6d2-7c21-4f1d-a20d-d82846ccc7ab,architrave.nyc,available,32.98,43.98,medium,low,10,namecheap,,,20/09/2026 02:17
-8da859e0-a047-4192-bfd4-464e75d0a17a,frivolous.nyc,available,6.98,43.98,medium,low,9,namecheap,,,18/08/2026 16:04
+8da859e0-a047-4192-bfd4-464e75d0a17a,frivolous.nyc,available,6.98,43.98,high,low,9,namecheap,,,18/08/2026 16:04
 108d7919-1e66-4306-9094-bec8d0d852dd,amd.nyc,premium,650,32.5,high,low,3,namecheap,,,17/09/2026 16:44
 c2ab3b21-ba33-46ea-91f1-a7f6944e9ab1,climatic.nyc,available,6.98,43.98,high,low,8,namecheap,,,12/08/2026 10:57
 dee16739-ffde-49e6-897a-cfa879c8decc,strenuous.nyc,available,31.99,31.99,medium,low,9,namesilo,,,10/09/2026 21:45
 09e305a4-b396-4bc5-aadb-81bb9abb2557,airframe.nyc,available,31.99,31.99,high,low,8,namesilo,,,17/09/2026 23:10
-1c324c64-53fb-4015-966a-bbd585f0a614,guadalupe.nyc,resell,,,medium,low,9,Rabbitsfoot.com LLC d/b/a Oxygen.nyc,18/01/2015 05:17,17/01/2027 23:59,26/09/2026 06:31
+1c324c64-53fb-4015-966a-bbd585f0a614,guadalupe.nyc,resell,,,high,low,9,Rabbitsfoot.com LLC d/b/a Oxygen.nyc,18/01/2015 05:17,17/01/2027 23:59,26/09/2026 06:31
 cd09d2e8-9339-41cc-baac-26ef4e2cd70d,rasta.nyc,available,31.99,31.99,high,medium,5,namesilo,,,09/09/2026 10:30
 06866ab8-87ca-4e56-ba82-7a4c38767354,cumbersome.nyc,available,6.98,43.98,medium,low,10,namecheap,,,13/08/2026 10:25
 4c2f8875-c532-49e0-90c5-b4fc5e3d3eea,gandhian.nyc,available,6.98,43.98,high,low,8,namecheap,,,18/08/2026 20:06
+a53f36a1-c85f-4fb5-b767-6463bcecd139,dolby.nyc,available,26.08,26.08,high,medium,5,spaceship,,,30/09/2026 01:20
 cb21862b-1b63-40a5-8133-56bb3a17aad2,contorted.nyc,available,6.98,43.98,medium,low,9,namecheap,,,12/08/2026 23:22
 2b76b3aa-065d-488c-a21c-95767cb43639,glibly.nyc,available,32.98,43.98,medium,low,6,namecheap,,,14/09/2026 21:34
+94ab1e0c-a307-4453-99c5-890db408f178,kneeling.nyc,available,26.97,26.97,high,low,8,dynadot,,,29/09/2026 19:28
 9f3d4f22-5643-48b4-bf24-3252604d6d09,agrimonia.nyc,available,32.98,43.98,medium,low,9,namecheap,,,17/09/2026 19:28
 5f92a83d-a7b8-4f4d-91e8-b3bb0a234ed0,selections.nyc,available,32.98,43.98,medium,low,10,namecheap,,,20/09/2026 10:53
 2ffe7c73-49d1-436c-a17d-2f767e1c26f3,unlit.nyc,available,31.99,31.99,medium,low,5,namesilo,,,12/09/2026 13:03
@@ -566,12 +613,13 @@ cadb9c37-8340-4302-ad5f-0a8970cf7046,crippled.nyc,available,6.98,43.98,medium,lo
 3c40c0d2-f8da-4eab-9b90-02e0199f52f5,manner.nyc,available,26.26,26.26,high,low,6,porkbun,,,28/09/2026 16:42
 7987a2e2-6974-4b0c-bfc2-6504f8e341be,irresponsible.nyc,available,26.97,26.97,medium,low,13,dynadot,,,28/09/2026 21:26
 859cc195-18df-4ed8-8c98-81b3c798201c,benefic.nyc,available,6.98,43.98,medium,low,7,namecheap,,,09/08/2026 14:18
-a40df80a-3050-4103-8c2a-492ef61c6534,whispered.nyc,available,31.99,31.99,medium,low,9,namesilo,,,13/09/2026 11:35
+a40df80a-3050-4103-8c2a-492ef61c6534,whispered.nyc,available,31.99,31.99,high,low,9,namesilo,,,13/09/2026 11:35
 a2c8c62b-fdac-4207-8b99-279001dc1d0e,tara.nyc,premium,51.95,26.08,high,low,4,spaceship,,,28/09/2026 15:26
 26686bb6-5868-4553-9f12-70f8658b4e43,weighted.nyc,available,31.99,31.99,high,low,8,namesilo,,,13/09/2026 10:08
 f631ca0c-c914-4d85-a031-b060a0616d58,benignly.nyc,available,31.99,31.99,medium,low,8,namesilo,,,13/09/2026 23:51
-6f52eb98-dfd3-4ba4-aa38-107379b2806c,chop.nyc,premium,53.92,29.5,medium,low,4,namesilo,,,
-58596770-dbae-4fee-93d6-12aec8ecd909,pawpaw.nyc,available,31.99,31.99,medium,low,6,namesilo,,,20/09/2026 14:11
+6f52eb98-dfd3-4ba4-aa38-107379b2806c,chop.nyc,premium,51.95,26.08,high,low,4,spaceship,,,29/09/2026 08:58
+6d6284d3-2233-4ccf-9df3-26e3925e2a8f,evasion.nyc,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 18:40
+58596770-dbae-4fee-93d6-12aec8ecd909,pawpaw.nyc,available,31.99,31.99,high,low,6,namesilo,,,20/09/2026 14:11
 ed8bc3e2-e46a-4f79-98e6-24ce9b9148e4,menstrual.nyc,available,6.98,43.98,high,low,9,namecheap,,,11/08/2026 20:59
 8b75a4f2-404d-471f-89ab-cbbaad8d592a,turnbull.nyc,available,26.08,26.08,medium,low,8,spaceship,,,28/09/2026 08:25
 a78acdb0-735f-4196-a754-ed78f75fcde8,projectile.nyc,available,31.99,31.99,high,low,10,namesilo,,,09/09/2026 02:59
@@ -581,11 +629,15 @@ afaa0b38-7b47-493e-97df-c270f06a0f4e,personality.nyc,available,43.99,46.99,high,
 32a37d88-02a6-4238-85e9-46c71ae75ed8,ballyrag.nyc,available,6.98,43.98,medium,low,8,namecheap,,,11/08/2026 08:57
 143d8fa7-d67d-4fda-be19-9bc2f5c9fde6,prescient.nyc,available,31.99,31.99,high,medium,9,namesilo,,,09/09/2026 01:42
 81fde7e0-f4e1-4cbc-ac83-38db07122e7a,grinder.nyc,available,6.98,43.98,medium,low,7,namecheap,,,25/08/2026 03:40
+18092b01-8a7a-4f22-8312-69f38b4c7b59,inflation.nyc,premium,517.7,26.08,high,low,9,spaceship,,,29/09/2026 07:21
+a76f065d-c452-4b6d-8ead-58a269d027c7,centimeters.nyc,available,26.97,26.97,medium,low,11,dynadot,,,29/09/2026 17:55
+85dcac1d-19dc-44c5-b8cc-d4d45153f6a3,thicker.nyc,available,26.26,26.26,medium,low,7,porkbun,,,29/09/2026 16:25
 cb2219de-e11e-4435-83f0-8f32eca120a0,dabbled.nyc,available,43.99,46.99,high,low,7,name.com,,,13/08/2026 15:12
 c7c0b710-208d-436b-aee5-b8c2a9ebddc1,equatorial.nyc,available,6.98,43.98,high,low,10,namecheap,,,17/08/2026 11:40
 e54a2a4c-c3aa-4989-8984-52231910033e,motionless.nyc,available,6.98,43.98,medium,low,10,namecheap,,,25/08/2026 07:28
-36c85dd6-19e2-47b0-88b6-a41f71873f09,doubtful.nyc,available,31.99,31.99,medium,low,8,namesilo,,,24/09/2026 11:52
+36c85dd6-19e2-47b0-88b6-a41f71873f09,doubtful.nyc,available,31.99,31.99,high,low,8,namesilo,,,24/09/2026 11:52
 bf91729c-2ae8-42d9-b74e-f3028849bbc0,imaginable.nyc,available,32.98,43.98,high,low,10,namecheap,,,23/09/2026 18:44
+d188e528-5269-4463-83a8-81cae5bffee5,tyre.nyc,available,31.99,31.99,high,low,4,namesilo,,,29/09/2026 08:11
 f4475119-1616-4a2c-bcb0-c7c1bdc0c81e,kellogg.nyc,available,26.26,26.26,high,low,7,porkbun,,,27/09/2026 14:32
 7a419e72-6c27-4260-880c-22fa1884c0cc,gui.nyc,premium,550,26.97,high,low,3,dynadot,,,28/09/2026 09:56
 5db79866-5a36-4920-892a-71690ac01526,yacht.nyc,premium,3450,29.5,high,low,5,namesilo,,,28/09/2026 02:59
@@ -594,14 +646,16 @@ f4475119-1616-4a2c-bcb0-c7c1bdc0c81e,kellogg.nyc,available,26.26,26.26,high,low,
 1acc2c66-2941-40ad-97e4-51ebf250c9db,amusive.nyc,available,32.98,43.98,medium,low,7,namecheap,,,
 5c3713ea-429d-4d0a-923d-26706e30b1ac,agleam.nyc,available,31.99,31.99,medium,low,6,namesilo,,,
 162c7747-6b36-4815-9557-12791bbb31f5,consuming.nyc,available,32.98,43.98,high,low,9,namecheap,,,23/09/2026 21:22
+42014eb7-ecc0-4b3f-bf25-cc8b1bf0f9ac,autobiography.nyc,available,26.97,26.97,high,low,13,dynadot,,,29/09/2026 23:22
 1f9ac853-58e6-467b-802f-43788cbea07d,backslider.nyc,available,31.99,31.99,medium,low,10,namesilo,,,21/09/2026 15:58
 5b8d1abb-e191-403f-8a2c-e39ffc996b81,grandfathers.nyc,available,31.99,31.99,medium,low,12,namesilo,,,20/09/2026 22:52
 110acb1b-73c6-46c7-b88b-03249e62d4b3,decently.nyc,available,6.98,43.98,medium,low,8,namecheap,,,13/08/2026 21:14
-38fd7f2e-1c13-4526-96c6-9c02c5c9379f,bahamian.nyc,available,6.98,43.98,medium,low,8,namecheap,,,08/08/2026 08:31
+38fd7f2e-1c13-4526-96c6-9c02c5c9379f,bahamian.nyc,available,6.98,43.98,high,low,8,namecheap,,,08/08/2026 08:31
 2b57971d-7df6-4615-9c23-66f1bd36a30a,united.nyc,premium,3250,32.5,high,medium,6,namecheap,,,25/09/2026 11:56
 b9d03a31-076c-42f9-ba6d-dfcd076d118e,racing.nyc,premium,6250,,high,low,6,name.com,,,
 0a485c7d-8480-4fff-ab27-b76e5053221f,fixed.nyc,available,32.98,43.98,high,low,5,namecheap,,,24/09/2026 19:10
 166969b3-9d91-478b-bcf9-b87a3cad467c,garfish.nyc,available,31.99,31.99,medium,low,7,namesilo,,,23/09/2026 16:11
+2d08ba77-45a3-481e-8a5d-003b9662f22d,cmc.nyc,premium,550,26.97,high,low,3,dynadot,,,29/09/2026 21:38
 5d8da0d0-a34f-4612-a2af-2a951416b33f,herodotus.nyc,available,26.26,26.26,medium,low,9,porkbun,,,28/09/2026 10:02
 634011d1-9f76-4edd-a47a-5c2e609d4870,across.nyc,available,26.97,26.97,high,low,6,dynadot,,,28/09/2026 11:43
 6273122b-b880-4d8a-a73b-4d6bea06efd8,peg.nyc,premium,517.7,26.08,high,low,3,spaceship,,,27/09/2026 15:02
@@ -615,10 +669,11 @@ a81f4c42-a01b-430c-8c6f-fb7213a4eaae,blackhead.nyc,available,31.99,31.99,medium,
 1e640bd6-e9b0-4ec1-b2ce-00a7c88439d7,abdullah.nyc,available,31.99,31.99,high,low,8,namesilo,,,28/09/2026 03:48
 2be3b0dd-04c3-401e-850a-7b52c2035727,parody.nyc,available,31.99,31.99,high,low,6,namesilo,,,23/09/2026 11:34
 4a41920a-84d5-4a51-970b-35cc5bfefd2d,meddle.nyc,available,31.99,31.99,medium,low,6,namesilo,,,
+29b4c2fc-88b1-41da-8bd9-7655a9c91f77,intervene.nyc,available,26.08,26.08,high,low,9,spaceship,,,29/09/2026 08:23
 2f9c239f-2edb-434f-826e-88a21e0d9f55,valueless.nyc,available,9.99,46.99,medium,low,9,name.com,,,13/09/2026 01:01
 515b7657-8af6-4ed0-8d8f-e2c6cb2df6ae,dense.nyc,available,31.99,31.99,high,low,5,namesilo,,,08/09/2026 15:39
 cda158e5-1df1-4e51-b06c-e0a422db9bc2,sensuous.nyc,available,31.99,31.99,high,low,8,namesilo,,,10/09/2026 03:48
-8c9abb39-e32c-46c8-aac0-96006d157a68,theatres.nyc,premium,1107,29.5,medium,low,8,namesilo,,,20/09/2026 19:41
+8c9abb39-e32c-46c8-aac0-96006d157a68,theatres.nyc,premium,1107,29.5,high,low,8,namesilo,,,20/09/2026 19:41
 b54948a3-a043-46de-a7bd-cdb9826934a6,fanta.nyc,available,43.98,,high,low,5,namecheap,,,
 2058091c-0556-44f9-a6bc-7cbc8936bdac,lounge.nyc,premium,3250,32.5,high,low,6,namecheap,,,11/09/2026 08:25
 70c66ed1-3c87-4c2c-979f-c2a732d48c7d,abdicable.nyc,available,31.99,31.99,medium,low,9,namesilo,,,
@@ -631,11 +686,14 @@ c3aefcfd-526f-466a-a987-917f24c35398,road.nyc,premium,625,,high,low,4,name.com,,
 8027cf56-64df-4a47-8c9b-5bb006624e3c,djiboutian.nyc,available,6.98,43.98,medium,low,10,namecheap,,,14/08/2026 14:08
 4b86697c-ef20-434e-b548-6ad1ef321699,corners.nyc,available,26.97,26.97,low,low,7,dynadot,,,28/09/2026 08:44
 547d377c-5ffb-46cb-865a-754f4bb1e524,potently.nyc,available,32.98,43.98,medium,low,8,namecheap,,,15/09/2026 21:07
+8425f2c3-1275-4090-8c48-32d052c9aa55,davie.nyc,available,26.08,26.08,high,low,5,spaceship,,,29/09/2026 22:14
 0df4ee1d-0810-4b56-9bbb-41bcd264c8df,repelling.nyc,available,6.98,43.98,medium,low,9,namecheap,,,14/08/2026 10:43
 3f064056-ac6e-40b2-b126-e7c0a4b8e037,procedural.nyc,available,31.99,31.99,high,low,10,namesilo,,,09/09/2026 02:31
 63b93468-b34e-4902-b172-7856938d1507,occupant.nyc,available,31.99,31.99,high,low,8,namesilo,,,09/09/2026 14:52
+e7a85e06-e7f8-4430-bf52-f5592066ea21,pelican.nyc,available,31.99,31.99,high,medium,7,namesilo,,,30/09/2026 02:28
 d8086938-e907-48ea-97f2-a4da0941693f,relatively.nyc,available,26.08,26.08,medium,low,10,spaceship,,,28/09/2026 14:14
 6ea12d5a-845e-473f-95b9-54330bb99a13,killed.nyc,available,31.99,31.99,medium,low,6,namesilo,,,17/09/2026 12:17
+9e12c4ce-de6e-43b0-ade9-a6b47679bdf2,flashlight.nyc,available,31.99,31.99,high,low,10,namesilo,,,29/09/2026 06:57
 67e0740a-fb93-46fb-a273-49fcde8d3230,magnet.nyc,available,32.98,43.98,high,low,6,namecheap,,,21/09/2026 02:14
 67dbe253-fa82-4d0f-bf0e-fb8f1e79f9e3,vaguely.nyc,available,31.99,31.99,medium,low,7,namesilo,,,16/09/2026 10:34
 2e2108b8-e1c6-4698-89fb-0ad06d09d32d,staged.nyc,available,32.98,43.98,high,low,6,namecheap,,,10/09/2026 18:02
@@ -656,6 +714,7 @@ eb52187e-bbb3-4b50-9831-6680809f498a,destitute.nyc,available,6.98,43.98,medium,l
 26376310-53a1-4a4a-944e-51b86d269171,indigene.nyc,available,31.99,31.99,high,low,8,namesilo,,,03/09/2026 13:49
 0f95d9df-d58f-444f-aa68-55519a711416,stringy.nyc,available,31.99,31.99,high,medium,7,namesilo,,,10/09/2026 08:17
 a9b4728a-74fb-4c61-b27e-617f063b4866,rouged.nyc,available,9.99,46.99,high,medium,6,name.com,,,09/09/2026 18:49
+b3e67ae8-e288-459d-b326-f6761326602a,scorpion.nyc,available,32.98,43.98,high,low,8,namecheap,,,30/09/2026 02:48
 d3a2e874-3ace-4774-94e7-b51c7cdb4670,muggy.nyc,available,31.99,31.99,medium,low,5,namesilo,,,03/09/2026 10:31
 2127859d-9f67-4aad-acf1-ed42b452ad43,khartoum.nyc,available,32.98,43.98,medium,low,8,namecheap,,,24/09/2026 12:25
 9a1e0ee4-3d6c-46a7-8516-d46cb3497a55,weights.nyc,available,31.99,31.99,medium,low,7,namesilo,,,
@@ -663,20 +722,20 @@ d3a2e874-3ace-4774-94e7-b51c7cdb4670,muggy.nyc,available,31.99,31.99,medium,low,
 9f59e538-08ed-4c58-a4bb-a51108036ca6,saltish.nyc,available,32.98,43.98,high,medium,7,namecheap,,,09/09/2026 20:57
 986fd8c9-fb8a-4833-9b23-37074dce9570,arriviste.nyc,available,31.99,31.99,medium,low,9,namesilo,,,03/09/2026 22:17
 f2a5a545-36f2-436e-ba50-5adc7b14f297,dues.nyc,available,43.99,46.99,high,low,4,name.com,,,19/09/2026 19:46
-cac84bc9-dda3-4294-bc07-1a7110e388b2,sniper.nyc,available,31.99,31.99,medium,low,6,namesilo,,,28/09/2026 15:22
+cac84bc9-dda3-4294-bc07-1a7110e388b2,sniper.nyc,available,31.99,31.99,high,low,6,namesilo,,,28/09/2026 15:22
 a7e880a9-1180-4e75-958c-ef4a6d8ca056,pay.nyc,premium,1107,29.5,high,medium,3,namesilo,,,
 fbc352c9-e7d2-40a2-a337-5de6eb713cab,knesset.nyc,available,26.26,26.26,medium,low,7,porkbun,,,28/09/2026 19:39
 e0a10089-02b9-43c0-938c-88ff22f4171f,sharply.nyc,available,31.99,31.99,medium,low,7,namesilo,,,27/09/2026 20:32
 8fbbf5e2-8363-416b-b1ad-3b036d9d8292,sweeps.nyc,available,31.99,31.99,medium,low,6,namesilo,,,18/09/2026 07:58
 4ad84344-f191-4ca2-b771-efbaf1536fdd,rubber.nyc,available,26.08,26.08,high,low,6,spaceship,,,27/09/2026 16:38
 135db746-2fd9-459e-a018-1abd9de78a8e,ibnsina.nyc,available,31.99,31.99,medium,low,8,namesilo,,,16/09/2026 18:41
-a8a9268a-2561-4096-b0dd-30d6443d1fc0,detour.nyc,available,31.99,31.99,high,low,6,namesilo,,,
 16183d65-50f8-4057-94be-2ae1f0efa8b1,pail.nyc,available,26.08,26.08,medium,low,4,spaceship,,,29/09/2026 04:55
 94d85e4a-ed74-4c48-9a59-911ab5877128,coop.nyc,premium,3125,46.99,high,low,5,name.com,,,13/08/2026 00:15
 64950bdb-5138-492c-ab4d-14fc58babade,zapotec.nyc,available,31.99,31.99,high,low,7,namesilo,,,13/09/2026 15:07
 344b9f90-7052-41d7-a28d-eaacb4ffebe3,bare.nyc,available,31.99,31.99,high,low,4,namesilo,,,22/09/2026 11:54
 5f4773aa-7b53-4170-8b38-8182c3205488,miocene.nyc,available,31.99,31.99,high,low,7,namesilo,,,25/09/2026 23:43
 d2be212b-2184-4e07-a277-a8f986cba3f8,concluded.nyc,available,31.99,31.99,high,low,9,namesilo,,,
+ceb17176-df1d-4b34-ae00-a9bdda6beaa9,journalists.nyc,available,31.99,31.99,medium,low,11,namesilo,,,29/09/2026 10:52
 026a532a-a6fe-4ced-ac82-9584e7c4b8c1,amos.nyc,premium,65,32.5,high,low,4,namecheap,,,18/09/2026 22:51
 51d7c3ad-557c-49ad-83c0-c9ab00bac2bf,extensile.nyc,available,6.98,43.98,medium,low,9,namecheap,,,17/08/2026 19:01
 5c05e155-f2a3-4ff1-a154-588b35e1171f,cationic.nyc,available,6.98,43.98,medium,low,8,namecheap,,,11/08/2026 22:07
@@ -688,33 +747,39 @@ a14c1fc9-baf4-42aa-991d-e396b5d257d5,riant.nyc,available,6.98,43.98,medium,low,5
 8240cbe2-1d81-4140-98db-8033cc178fa6,abashed.nyc,available,31.99,31.99,medium,low,7,namesilo,,,
 9be8d0b4-5fcd-49fa-aaa5-6fbc5cba4a81,nutrify.nyc,available,32.98,43.98,medium,low,7,namecheap,,,18/09/2026 07:57
 e75f5a01-be9b-46e1-8141-b222751773d3,parentage.nyc,available,31.99,31.99,high,low,9,namesilo,,,08/09/2026 13:25
+ffff02b7-42e9-44ef-ae56-9c7e946b0157,justus.nyc,available,32.98,43.98,high,low,6,namecheap,,,29/09/2026 22:14
+0a58c7d3-1655-4df2-9c68-9053e6ef79e9,widows.nyc,available,31.99,31.99,medium,low,6,namesilo,,,30/09/2026 00:25
 61a67432-488d-4cd0-97d4-a7d9644ef36c,chocolate.nyc,premium,2587.7,26.08,high,low,9,spaceship,,,28/09/2026 09:05
-14ec0906-d40c-4f6e-b902-196c5eff3c47,epistolary.nyc,available,6.98,43.98,medium,low,10,namecheap,,,17/08/2026 11:14
+14ec0906-d40c-4f6e-b902-196c5eff3c47,epistolary.nyc,available,6.98,43.98,high,low,10,namecheap,,,17/08/2026 11:14
 dacaa609-8aae-4ba9-b5ec-dfd7f717b674,unrealized.nyc,available,31.99,31.99,medium,low,10,namesilo,,,12/09/2026 11:00
 4936c055-a139-4d1d-9171-524f66e3fa32,perturbed.nyc,available,6.98,43.98,medium,low,9,namecheap,,,18/08/2026 09:31
 dd0b6d62-5a54-4de1-9a4c-504096cbc96c,prosecutor.nyc,available,31.99,31.99,high,low,10,namesilo,,,27/09/2026 05:05
 a7300250-03c5-49c5-971d-023a8a057860,stoical.nyc,available,32.98,43.98,medium,low,7,namecheap,,,10/09/2026 20:59
 8950e470-8cc9-4ab5-947e-2905a31a52b3,tzarist.nyc,available,43.99,46.99,medium,low,7,name.com,,,13/08/2026 14:59
 35fc3d73-cc5b-4099-b62a-af5206c6a84a,avocation.nyc,available,31.99,31.99,high,low,9,namesilo,,,21/09/2026 09:37
+46ebb1a8-2caf-48cb-86b3-ddfe948045a8,injected.nyc,available,26.08,26.08,medium,low,8,spaceship,,,29/09/2026 10:57
 28f6558b-8b62-4270-84b3-f797d7f323d1,grossly.nyc,available,31.99,31.99,medium,low,7,namesilo,,,14/09/2026 22:29
 5b68a40e-b61c-4c04-9a83-827da7713c9f,reasonless.nyc,available,6.98,43.98,medium,low,10,namecheap,,,11/08/2026 22:42
 ecbbb11c-0ce0-49a5-bd70-23dd6673c7ba,fanciful.nyc,available,6.98,43.98,high,low,8,namecheap,,,17/08/2026 21:56
 8da84774-5a5f-4dc2-af4f-5c13a10b8cae,arced.nyc,available,6.98,43.98,medium,low,5,namecheap,,,06/08/2026 14:28
 bd973ac8-0eb4-4f49-bda3-02e9ebcfb403,part.nyc,premium,3250,32.5,high,low,4,namecheap,,,15/09/2026 19:03
 417def9a-c12c-414d-89d9-a773a9f1b8ba,implanted.nyc,available,6.98,43.98,medium,low,9,namecheap,,,13/08/2026 22:47
-0469a6a4-7da4-4a69-a808-1f374c394920,brawny.nyc,available,6.98,43.98,medium,low,6,namecheap,,,11/08/2026 02:47
+0469a6a4-7da4-4a69-a808-1f374c394920,brawny.nyc,available,6.98,43.98,high,low,6,namecheap,,,11/08/2026 02:47
 4b7e796c-b996-447b-bf32-57390b88fc4c,squalid.nyc,available,31.99,31.99,medium,low,7,namesilo,,,10/09/2026 14:31
+4297b800-9bc4-4a27-9e32-354a24099075,output.nyc,available,31.99,31.99,high,low,6,namesilo,,,29/09/2026 06:46
 7e9d3959-e15a-4583-916e-b8ddc498f463,polishing.nyc,available,31.99,31.99,high,medium,9,namesilo,,,10/09/2026 06:31
 406083ec-e85d-473f-b807-3167145069e0,association.nyc,premium,625,46.99,high,low,11,name.com,,,27/09/2026 21:32
 1ec26553-80a5-49dc-b1b4-c60185f9fc60,drizzly.nyc,available,6.98,43.98,medium,low,7,namecheap,,,14/08/2026 19:32
 12da2ceb-f9a5-400b-b1e9-74ad9817db38,obeisance.nyc,available,6.98,43.98,high,medium,9,namecheap,,,10/08/2026 23:35
-95f8a69b-30cc-416c-87d2-a5a3f6b7de60,aftershock.nyc,available,31.99,31.99,medium,low,10,namesilo,,,17/09/2026 15:51
+d547a5f3-cc10-457d-a727-606cbb0fa233,pocahontas.nyc,available,31.99,31.99,high,low,10,namesilo,,,29/09/2026 07:34
+95f8a69b-30cc-416c-87d2-a5a3f6b7de60,aftershock.nyc,available,31.99,31.99,high,low,10,namesilo,,,17/09/2026 15:51
 4e7e896d-9904-4b94-ba92-58386c668d42,bezel.nyc,available,31.99,31.99,medium,low,5,namesilo,,,23/09/2026 12:19
-fd5e3aae-6c5c-4bca-aa76-fd3411e96de5,lax.nyc,premium,625,46.99,medium,low,3,name.com,,,22/08/2026 21:22
+fd5e3aae-6c5c-4bca-aa76-fd3411e96de5,lax.nyc,premium,625,46.99,high,low,3,name.com,,,22/08/2026 21:22
 47798b77-3003-410c-be10-d1119ca432ec,bryce.nyc,available,26.08,26.08,high,low,5,spaceship,,,27/09/2026 19:56
-537dc23c-05e3-4343-8214-234495b829e5,diverging.nyc,available,6.98,43.98,medium,low,9,namecheap,,,14/08/2026 13:37
+537dc23c-05e3-4343-8214-234495b829e5,diverging.nyc,available,6.98,43.98,high,low,9,namecheap,,,14/08/2026 13:37
 4b6b7604-52c3-401f-bd78-22d82f448418,elemental.nyc,available,6.98,43.98,high,low,9,namecheap,,,16/08/2026 03:29
 0e3b1862-6300-4952-97ac-ef8643257e62,nestle.nyc,available,32.98,43.98,high,medium,6,namecheap,,,24/09/2026 20:10
+10fc12ba-46a2-4d56-b458-711aececc9e7,cheerleader.nyc,available,26.08,26.08,high,low,11,spaceship,,,29/09/2026 21:07
 71c02167-1c76-4c8d-b48c-e00f59c1ebd1,downgrade.nyc,available,31.99,31.99,medium,low,9,namesilo,,,24/09/2026 23:39
 420656d4-4c75-4475-ac31-a18561bd1a1d,manuel.nyc,available,31.99,31.99,high,low,6,namesilo,,,25/09/2026 15:00
 b7d67be1-763e-409c-bcef-7ebebfabc211,heavyweight.nyc,available,26.08,26.08,high,low,11,spaceship,,,29/09/2026 03:05
@@ -727,7 +792,7 @@ c5a2b35b-eb53-45d4-ae6d-fe94849181d5,federate.nyc,available,6.98,43.98,high,low,
 986b2daa-e818-4ba3-9900-1d59b6f96fcc,vibe.nyc,resell,,,high,medium,4,,,,29/09/2026 02:29
 2d9ca55d-1653-4ba6-8141-9d6b56ef67af,staunch.nyc,available,32.98,43.98,high,low,7,namecheap,,,10/09/2026 19:22
 2c9055ad-d445-40c7-87b0-945bb51555ef,batteries.nyc,resell,,,medium,low,9,,,,27/09/2026 23:45
-c73e9bb4-7d08-4f50-ae79-0b750c6ff415,taylor.nyc,available,,,high,low,6,,,,
+2c233add-f1a7-4b8f-8328-b2aa308fa503,dortmund.nyc,available,32.98,43.98,high,low,8,namecheap,,,29/09/2026 18:41
 c0b7eabd-97da-468a-ad60-89d53a218e73,card.nyc,premium,2587.7,26.08,high,medium,4,spaceship,,,28/09/2026 18:21
 dc7ab5e5-0416-4f2c-bbe9-484aa82dd418,asafoetida.nyc,available,31.99,31.99,medium,low,10,namesilo,,,20/09/2026 12:43
 dca03853-d49c-4097-ad28-1c7f46e8ef8f,woollen.nyc,available,31.99,31.99,high,low,7,namesilo,,,13/09/2026 13:15
@@ -737,53 +802,60 @@ d101685e-9406-4a8a-a629-d3d62db71d0b,actuation.nyc,available,31.99,31.99,medium,
 26222136-7676-4314-a693-6b96fd5f737d,atenolol.nyc,available,32.98,43.98,medium,low,8,namecheap,,,20/09/2026 20:09
 c671980e-87b0-486c-9167-98ccf6817a45,walker.nyc,premium,302.5,29.5,high,low,6,namesilo,,,08/09/2026 12:36
 47ea7d8d-98df-49d3-a26b-cbb376dae7cf,denison.nyc,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 08:06
-57edaa95-5cbb-47e2-9232-b745e17aa738,swastika.nyc,available,43.98,,medium,low,8,namecheap,,,
+57edaa95-5cbb-47e2-9232-b745e17aa738,swastika.nyc,available,32.98,43.98,medium,low,8,namecheap,,,29/09/2026 21:59
 141ca116-e019-4cf4-bed6-9b3344bbcdda,maladroit.nyc,available,6.98,43.98,medium,low,9,namecheap,,,24/08/2026 13:35
 1bfda7cb-6cb9-4c0e-babe-a99d498a626e,shaped.nyc,available,6.98,43.98,high,low,6,namecheap,,,25/08/2026 03:44
 c5a77d1a-9b44-48f3-80f7-9ef57b6f654d,ascensive.nyc,available,6.98,43.98,medium,low,9,namecheap,,,07/08/2026 00:46
 2ef7bd51-4f45-4b66-a441-a6a65cd996f0,alimental.nyc,available,31.99,31.99,medium,low,9,namesilo,,,
 ff92284f-7723-4f3e-b860-ba8499826688,denis.nyc,available,31.99,31.99,high,low,5,namesilo,,,25/09/2026 15:03
-60ddab98-def9-4c3d-a1d6-e0da4853f698,blackface.nyc,available,31.99,31.99,medium,low,9,namesilo,,,24/09/2026 02:15
+60ddab98-def9-4c3d-a1d6-e0da4853f698,blackface.nyc,available,31.99,31.99,high,low,9,namesilo,,,24/09/2026 02:15
 42c63ad1-8330-41d9-96e4-bd290e79d61a,bossy.nyc,available,6.98,43.98,medium,low,5,namecheap,,,07/08/2026 19:35
 c6a34f10-9bc8-4285-98d4-09a49d224578,ushers.nyc,available,31.99,31.99,medium,low,6,namesilo,,,20/09/2026 19:46
-b9e5d81b-2f5e-48dc-bb56-a83883a9ec39,fledgeling.nyc,available,6.98,43.98,medium,low,10,namecheap,,,18/08/2026 07:32
+b9e5d81b-2f5e-48dc-bb56-a83883a9ec39,fledgeling.nyc,available,6.98,43.98,high,low,10,namecheap,,,18/08/2026 07:32
 15840507-2411-45d9-9074-bc643bc8e266,funky.nyc,available,6.98,43.98,high,low,5,namecheap,,,18/08/2026 02:27
 7f994752-4c08-4e8e-89aa-cd5fd114b391,braised.nyc,available,6.98,43.98,medium,low,7,namecheap,,,11/08/2026 01:55
 a2fadd25-d215-44c0-a5dd-780a1529f907,beguine.nyc,available,32.98,43.98,medium,low,7,namecheap,,,23/09/2026 02:59
 b0346ad3-eb24-4a15-9a61-98f0ac9ebafe,agreements.nyc,available,31.99,31.99,medium,low,10,namesilo,,,17/09/2026 03:09
 3efa8c5b-f569-4abb-8cf6-1dc80a261187,tipsy.nyc,available,31.99,31.99,high,low,5,namesilo,,,11/09/2026 15:38
 b0a62ce9-48c1-4e76-84bc-1eb589dae273,touchy.nyc,available,6.98,43.98,medium,low,6,namecheap,,,21/08/2026 14:42
-41fd6405-9a61-47e4-9c68-c145951eb06d,downstage.nyc,available,6.98,43.98,medium,low,9,namecheap,,,14/08/2026 17:53
+41fd6405-9a61-47e4-9c68-c145951eb06d,downstage.nyc,available,6.98,43.98,high,low,9,namecheap,,,14/08/2026 17:53
 60fe5c3f-44d6-46d4-98be-1a1a97c1f295,sellable.nyc,available,6.98,43.98,high,low,8,namecheap,,,24/08/2026 20:28
 b96025c0-1b96-4e47-a2b1-3e73222bed1a,modernist.nyc,available,31.99,31.99,high,low,9,namesilo,,,27/09/2026 04:47
 c397b377-9481-4c81-a8a0-17f3579c8420,crafty.nyc,available,31.99,31.99,high,low,6,namesilo,,,24/09/2026 01:24
 8e3fcdeb-9398-4c5f-a7ef-71f3c5494906,marlene.nyc,available,31.99,31.99,medium,low,7,namesilo,,,28/09/2026 22:01
+bf5452a7-eeee-4a6a-813d-21c5032911b3,motherhood.nyc,available,26.26,26.26,high,low,10,porkbun,,,29/09/2026 19:42
 d479ba21-3745-43d0-88dc-c47e50e99241,bernini.nyc,available,31.99,31.99,high,low,7,namesilo,,,23/09/2026 09:56
 053c68c6-cab4-4b68-99b9-d99df636a01e,blush.nyc,premium,53.92,29.5,high,low,5,namesilo,,,13/08/2026 06:32
+4644d2d1-32f7-4a0a-ac51-30f83f7fab8d,hildebrand.nyc,available,26.08,26.08,medium,low,10,spaceship,,,30/09/2026 01:47
 f767d82c-9f3a-4684-91e0-d412f8f6fd73,megan.nyc,premium,302.5,29.5,medium,low,5,namesilo,,,26/09/2026 03:31
 50b2d4bf-9f3f-49ca-95d7-58bc1da74c99,diversify.nyc,available,31.99,31.99,high,low,9,namesilo,,,
 f087f5eb-12a3-40ff-914f-ecaf4e47ffef,caught.nyc,available,31.99,31.99,high,low,6,namesilo,,,
+33bc0df0-1bdb-4761-8837-cece2e197547,safeguard.nyc,available,26.26,26.26,high,low,9,porkbun,,,29/09/2026 20:02
 88a5f152-eff0-4b9d-ac55-39ba578b8c83,frustrated.nyc,available,43.99,46.99,medium,low,10,name.com,,,24/09/2026 10:57
 d0800344-7017-46c5-9362-d18fda6dc87b,dishcloth.nyc,available,31.99,31.99,medium,low,9,namesilo,,,24/09/2026 22:40
 d234b477-050e-4b96-a76f-c99c91a37cfd,mendoza.nyc,available,31.99,31.99,high,low,7,namesilo,,,27/09/2026 07:53
 976e19ff-f8ed-47df-ba72-131e2b2eecc3,aspheric.nyc,available,6.98,43.98,medium,low,8,namecheap,,,07/08/2026 04:52
 dc6e3252-2092-4088-9b1e-587febaa2261,surroundings.nyc,available,31.99,31.99,high,low,12,namesilo,,,28/09/2026 06:36
 ec64dc86-b05a-41d7-8d21-4b3ed35c80a2,froze.nyc,available,31.99,31.99,medium,low,5,namesilo,,,
+4bfdca99-577f-4018-a6e8-b172bf053537,infirmary.nyc,available,31.99,31.99,high,low,9,namesilo,,,29/09/2026 13:04
 2c93afad-53a0-4719-a909-ee64d7a7255d,monitors.nyc,available,31.99,31.99,medium,low,8,namesilo,,,29/09/2026 00:02
 562e999c-4aa1-45cb-aa05-235061c2a273,scranton.nyc,available,32.98,43.98,high,low,8,namecheap,,,26/09/2026 00:14
 631b70b9-203d-4444-94ce-206b99244c36,tropically.nyc,available,31.99,31.99,medium,low,10,namesilo,,,16/09/2026 09:33
+35c9730a-fe59-4963-a7d5-26d3365fed93,mendocino.nyc,available,26.08,26.08,high,low,9,spaceship,,,29/09/2026 22:47
 f3bbc0cc-9feb-415f-a116-c4cfaabe6438,scapular.nyc,available,31.99,31.99,medium,low,8,namesilo,,,09/09/2026 22:51
 1fdd91ac-5023-4a3d-9343-92ffeeb1953b,weakening.nyc,available,43.99,46.99,medium,low,9,name.com,,,13/08/2026 20:44
 6bda12e4-f461-4ac2-b86a-86093959d4c7,onomastic.nyc,available,31.99,31.99,medium,low,9,namesilo,,,04/09/2026 15:15
+0238956c-48eb-4bfb-9f69-b013a3ce561f,sacramento.nyc,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 18:11
 69b62272-1578-4f08-b388-652bad9fd051,joints.nyc,available,31.99,31.99,medium,low,6,namesilo,,,20/09/2026 03:38
 a9344f71-4ae0-491a-930c-9e3f19d0b8ac,longing.nyc,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 19:43
 05240d73-885c-4926-94fc-73757c1c8291,homecoming.nyc,resell,,,high,low,10,,,,28/09/2026 19:27
+b230e4dc-0e20-44e8-a1fc-3ff0a4c3f2af,professors.nyc,available,26.08,26.08,medium,low,10,spaceship,,,29/09/2026 11:19
 97f7e622-80b1-4ed5-bbff-d77545f7e64f,licensed.nyc,available,31.99,31.99,high,low,8,namesilo,,,19/09/2026 16:56
 2f1e01b2-973c-4958-9077-fcf0d3a31e8e,bovid.nyc,available,6.98,43.98,high,medium,5,namecheap,,,10/08/2026 22:56
-69d44f8c-51d2-4dfb-8770-3fe48574698b,millionth.nyc,available,6.98,43.98,medium,low,9,namecheap,,,24/08/2026 23:25
+69d44f8c-51d2-4dfb-8770-3fe48574698b,millionth.nyc,available,6.98,43.98,high,low,9,namecheap,,,24/08/2026 23:25
 d6bfbd7c-601f-4b7e-a2ad-46e4b66e08b1,lebanese.nyc,available,6.98,43.98,high,low,8,namecheap,,,22/08/2026 22:15
 04f6146f-3011-460a-9cd4-9e321ecb230d,buff.nyc,available,6.98,43.98,high,low,4,namecheap,,,11/08/2026 07:48
-918b33a0-41fc-42cf-a510-f993ed80e3e8,poetically.nyc,available,32.98,43.98,medium,low,10,namecheap,,,15/09/2026 20:51
+918b33a0-41fc-42cf-a510-f993ed80e3e8,poetically.nyc,available,32.98,43.98,high,low,10,namecheap,,,15/09/2026 20:51
 5147cd9c-2335-40e4-916f-27a95ef79f4d,aneurism.nyc,available,32.98,43.98,medium,low,8,namecheap,,,19/09/2026 05:43
 290cb9ba-515c-462c-8793-bfdb4b8a7720,snobbish.nyc,available,6.98,43.98,medium,low,8,namecheap,,,12/08/2026 11:21
 aaa55a83-f190-4e4c-b6df-e05d53ecbd59,repeating.nyc,available,26.97,26.97,high,low,9,dynadot,,,28/09/2026 06:41
@@ -796,14 +868,18 @@ a8bb8c5f-4292-41c4-91ca-5fabc45ec701,carols.nyc,available,32.98,43.98,medium,low
 5a0cf031-491d-414c-84c8-8971e0ef84bc,pillage.nyc,available,31.99,31.99,medium,low,7,namesilo,,,08/09/2026 21:56
 b793e62f-8c53-4e33-8173-4aa90b6ed389,locked.nyc,available,31.99,31.99,high,low,6,namesilo,,,27/09/2026 02:54
 92096685-4035-4bbd-984a-a56d867b17a4,bruxelles.nyc,available,31.99,31.99,high,low,9,namesilo,,,23/09/2026 04:57
+da8a4944-4561-4ccc-a87c-5c6ab09113e9,maastricht.nyc,available,26.08,26.08,medium,low,10,spaceship,,,29/09/2026 22:00
 c9ac2ed5-7d26-47d0-8b58-b81f23c0c09c,satiate.nyc,available,31.99,31.99,high,low,7,namesilo,,,09/09/2026 14:28
 e44aedfe-a69c-4394-af86-9b0fd76c9cc6,hebridean.nyc,available,6.98,43.98,high,low,9,namecheap,,,21/08/2026 05:45
+274e10c7-7d0f-4585-b8c7-909268597066,overheard.nyc,available,26.08,26.08,medium,low,9,spaceship,,,29/09/2026 22:55
 d283bb5e-291f-4fec-860c-c379a1717bdf,ammeter.nyc,available,32.98,43.98,medium,low,7,namecheap,,,18/09/2026 22:00
 38153364-8e0f-4830-8f3a-aef9a2c78b3f,agrippina.nyc,available,32.98,43.98,medium,low,9,namecheap,,,17/09/2026 19:33
 ca7d5dd0-0232-4126-a2a8-e1f2b6abaa08,reads.nyc,available,31.99,31.99,high,low,5,namesilo,,,19/09/2026 00:45
 530cbbf7-c17c-4d0c-82f9-0f16797878b1,tucson.nyc,available,32.98,43.98,high,low,6,namecheap,,,29/09/2026 02:22
 0ae7376d-1b07-464a-8d94-a2b974e7ad49,hinault.nyc,available,32.98,43.98,medium,low,7,namecheap,,,23/09/2026 09:48
+7692193a-742e-40b2-b7b9-31813ef91025,inflammation.nyc,available,26.08,26.08,medium,low,12,spaceship,,,29/09/2026 23:01
 ae66ec8b-0b15-4727-a162-f13eaefd5048,reflections.nyc,available,32.98,43.98,medium,low,11,namecheap,,,18/09/2026 07:20
+a0f90a0e-fa47-4a98-abf3-1c18e3d27fe1,humming.nyc,available,31.99,31.99,high,low,7,namesilo,,,29/09/2026 07:18
 34649659-0346-49e5-bd34-d2327f2bff7a,uncreative.nyc,available,31.99,31.99,medium,low,10,namesilo,,,12/09/2026 06:24
 ea9de7bb-998a-463f-9952-8daf558dfce9,sunstone.nyc,available,31.99,31.99,high,low,8,namesilo,,,21/09/2026 09:07
 31a6e84f-112a-4901-9e77-fb3b60be4f3b,passport.nyc,premium,1107,29.5,high,low,8,namesilo,,,27/09/2026 04:57
@@ -816,11 +892,13 @@ ea9de7bb-998a-463f-9952-8daf558dfce9,sunstone.nyc,available,31.99,31.99,high,low
 1fb52bec-e77f-4f81-a45a-741a911e4037,darwinian.nyc,available,43.99,46.99,medium,low,9,name.com,,,13/08/2026 18:25
 d314dd52-5fe4-4479-a295-b925b57c4726,coerce.nyc,available,6.98,43.98,medium,low,6,namecheap,,,20/08/2026 22:25
 63e9014a-2de2-403f-84c2-2446134f25b1,tweet.nyc,premium,53.92,29.5,high,low,5,namesilo,,,
+a2b7d08c-955e-4f7a-81ec-48e9aab92629,smear.nyc,available,32.98,43.98,high,low,5,namecheap,,,29/09/2026 18:01
 12c5ff28-fce4-49bf-ba4b-50b652a53ab5,conducive.nyc,available,6.98,43.98,high,low,9,namecheap,,,12/08/2026 20:30
 f5690e10-874f-4f92-901c-9dc6cb989b73,report.nyc,available,,,high,low,6,,,,
 0c2feba9-c950-432a-94c8-56781dda6fc9,apiarian.nyc,available,6.98,43.98,medium,low,8,namecheap,,,05/08/2026 23:53
 eec61f26-de65-43f0-b394-b41599dfb6e1,ketonemia.nyc,available,31.99,31.99,medium,low,9,namesilo,,,17/09/2026 00:10
 95383a87-d6d0-4d83-9296-7447f3d30ca6,noodle.nyc,available,31.99,31.99,high,low,6,namesilo,,,24/09/2026 06:38
+e0362ffe-587f-463d-9f32-94472d0eda10,tinker.nyc,available,26.26,26.26,high,low,6,porkbun,,,29/09/2026 18:20
 8fc993d2-5688-4859-8776-8cae94059de9,folk.nyc,premium,1107,29.5,high,low,4,namesilo,,,24/09/2026 16:32
 814b81f2-1fc0-4f90-8525-7a8cca9e9557,occurrence.nyc,available,31.99,31.99,high,low,10,namesilo,,,25/09/2026 23:56
 86b9e6b0-cc12-4b58-b68b-692114db0aa6,ambush.nyc,available,6.98,43.98,high,low,6,namecheap,,,24/08/2026 12:29
@@ -830,6 +908,7 @@ c898007b-d3d8-4296-91cf-e911903c5b08,treatments.nyc,available,31.99,31.99,medium
 4e45682d-9aad-400c-b36c-2625c0619c65,hilbert.nyc,available,31.99,31.99,high,low,7,namesilo,,,28/09/2026 05:30
 9d6e006a-1099-4732-9786-b9c921782743,prurient.nyc,available,6.98,43.98,medium,low,8,namecheap,,,24/08/2026 11:58
 82c66a0e-d34b-4221-b622-b98072560b4d,sumerian.nyc,available,31.99,31.99,high,low,8,namesilo,,,11/09/2026 01:33
+90a97f87-a990-44e6-8119-6732895c092e,intends.nyc,available,31.99,31.99,medium,low,7,namesilo,,,29/09/2026 11:20
 094c0b66-83b7-427c-8332-686bb9a33904,moistly.nyc,available,31.99,31.99,low,low,7,namesilo,,,14/09/2026 10:31
 19c127bd-18d8-4898-aedd-35be38565d07,beguiled.nyc,available,6.98,43.98,medium,low,8,namecheap,,,09/08/2026 09:46
 8acc03d4-00c5-4e05-830e-3ff9231f644a,mil.nyc,premium,625,46.99,high,low,3,name.com,,,11/08/2026 22:57
@@ -837,9 +916,9 @@ c898007b-d3d8-4296-91cf-e911903c5b08,treatments.nyc,available,31.99,31.99,medium
 bfdc0fcf-6081-4460-b70a-131c974d9320,chessboard.nyc,available,31.99,31.99,high,low,10,namesilo,,,24/09/2026 14:20
 fdc37fed-0100-462e-bdf6-36ffdf3f5277,taxpaying.nyc,available,31.99,31.99,medium,low,9,namesilo,,,11/09/2026 09:32
 103ee955-9752-4065-b450-4eba4effb141,worried.nyc,available,31.99,31.99,high,low,7,namesilo,,,24/09/2026 11:23
-a3b9f0fb-c1ee-4cb0-a3b0-2b3035dda5d2,sicily.nyc,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 20:27
+a3b9f0fb-c1ee-4cb0-a3b0-2b3035dda5d2,sicily.nyc,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 20:27
 24926540-fdca-421d-8630-2161e3173175,franklin.nyc,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",19/02/2025 21:02,19/02/2027 21:02,26/09/2026 06:14
-452533a3-9984-40f7-a949-0592743a2a5f,yell.nyc,available,31.99,31.99,medium,low,4,namesilo,,,
+452533a3-9984-40f7-a949-0592743a2a5f,yell.nyc,available,26.08,26.08,medium,low,4,spaceship,,,29/09/2026 12:21
 2d789f43-4824-4e2f-9e7e-75ee1ac6fdd9,comose.nyc,available,6.98,43.98,low,low,6,namecheap,,,12/08/2026 18:22
 4e3d0d54-46fc-41a4-bcc9-bff8543f27b9,debris.nyc,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 18:54
 97d60955-cafb-4043-a98d-56fe250833c1,badinage.nyc,available,31.99,31.99,medium,low,8,namesilo,,,21/09/2026 17:13
@@ -857,20 +936,22 @@ f77d95e1-26fa-44bd-a6f1-ee753d11fded,faddy.nyc,available,6.98,43.98,medium,low,5
 2e3d6b0a-45f1-49bd-aaf2-0cac543d0588,phrenic.nyc,available,32.98,43.98,high,medium,7,namecheap,,,08/09/2026 19:21
 4d96ba6f-9b4c-4d9b-a2c4-baab7a282810,divided.nyc,available,6.98,43.98,medium,low,7,namecheap,,,14/08/2026 13:42
 e26f05d6-46f8-4d32-b976-8b496cac96b6,beryllium.nyc,available,43.99,46.99,medium,low,9,name.com,,,20/09/2026 23:00
+dfd32ad6-a193-43d5-a55e-fbe1c117bfb3,pickle.nyc,premium,103.7,26.08,high,low,6,spaceship,,,29/09/2026 06:57
 50aa2b3c-9915-42de-b6b3-a8b06b79eff6,majuscule.nyc,available,6.98,43.98,medium,low,9,namecheap,,,24/08/2026 13:26
 8cbb4200-c885-4249-85c0-18ce7cc976e0,pallor.nyc,available,31.99,31.99,medium,low,6,namesilo,,,17/09/2026 01:07
 8c69479b-d940-4266-8cec-e09c7f96a016,avulsion.nyc,available,31.99,31.99,medium,low,8,namesilo,,,21/09/2026 09:54
 f86445da-dde5-45a9-80c4-34f2c98bc92e,anal.nyc,available,31.99,31.99,high,low,4,namesilo,,,
 a3c3315b-6374-4e2e-84a9-b10b7cb7996f,warmer.nyc,available,31.99,31.99,high,low,6,namesilo,,,28/09/2026 05:58
-3be59ebb-c734-46cb-905d-ec5dca5ad14a,intimately.nyc,available,31.99,31.99,medium,low,10,namesilo,,,15/09/2026 09:03
-6eccee23-21fb-4a48-bc41-b4ea1eb7c050,frequently.nyc,available,26.08,26.08,medium,low,10,spaceship,,,28/09/2026 14:57
+3be59ebb-c734-46cb-905d-ec5dca5ad14a,intimately.nyc,available,31.99,31.99,high,low,10,namesilo,,,15/09/2026 09:03
+6eccee23-21fb-4a48-bc41-b4ea1eb7c050,frequently.nyc,available,26.08,26.08,high,low,10,spaceship,,,28/09/2026 14:57
 e98adf26-de7c-4d7d-bff3-97993966ab4a,alisma.nyc,available,31.99,31.99,medium,low,6,namesilo,,,18/09/2026 08:02
+f1f2c506-264a-4b0f-b74d-3f51cdda294e,fatima.nyc,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 06:52
 b338139c-a21e-475c-9c4f-d3089619427a,bodied.nyc,available,6.98,43.98,medium,low,6,namecheap,,,10/08/2026 16:44
 0c6667b8-a284-461d-8b50-19a2a44d9086,idly.nyc,available,31.99,31.99,high,low,4,namesilo,,,15/09/2026 01:38
 0ca2501f-c98d-425b-a7bc-6acf4950bfcf,accomplished.nyc,available,31.99,31.99,high,low,12,namesilo,,,
 2931067c-541e-484d-9639-08bd3c69387b,unnatural.nyc,available,31.99,31.99,medium,low,9,namesilo,,,
 03145b22-6add-4b5f-b083-50e015d26aa4,angstrom.nyc,available,31.99,31.99,medium,low,8,namesilo,,,16/09/2026 12:44
-ae1b11f7-06e8-4b24-b21c-b468da27214c,july.nyc,premium,116,29.5,high,low,4,namesilo,,,
+ae1b11f7-06e8-4b24-b21c-b468da27214c,july.nyc,premium,116,29.5,high,low,4,namesilo,,,30/09/2026 01:04
 097df07f-8356-4dff-8082-7fe4020ff77a,vagus.nyc,available,31.99,31.99,medium,low,5,namesilo,,,08/09/2026 22:09
 c1da8881-c17e-448f-aaa8-2a97970a54fd,crevice.nyc,available,6.98,43.98,high,low,7,namecheap,,,13/08/2026 04:16
 817e5ac2-1d39-42d5-9190-04793a71331d,emerald.nyc,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 19:05
@@ -891,11 +972,11 @@ c73a21f4-bfd1-42a3-871e-43ef0b81e9c7,ong.nyc,premium,517.7,26.08,medium,low,3,sp
 d3c785ca-cd46-4b5c-8e50-e371f95674d1,galling.nyc,available,31.99,31.99,high,low,7,namesilo,,,
 adb93018-d619-4dd8-a1c4-05973888c44c,anthozoa.nyc,available,31.99,31.99,medium,low,8,namesilo,,,17/09/2026 05:01
 5b3ca13d-cddb-4551-ba2d-57e87dc4690d,wisent.nyc,available,31.99,31.99,medium,low,6,namesilo,,,21/09/2026 04:34
-75155ad2-6f16-4a9b-9168-b91a52300600,albuterol.nyc,available,32.98,43.98,medium,low,9,namecheap,,,18/09/2026 03:32
+75155ad2-6f16-4a9b-9168-b91a52300600,albuterol.nyc,available,32.98,43.98,high,low,9,namecheap,,,18/09/2026 03:32
 4e878aaa-d388-4bf7-9b58-8880f196a8f1,nicaraguan.nyc,available,31.99,31.99,high,low,10,namesilo,,,03/09/2026 17:03
 5c2dda45-158d-44f0-b282-bac3e462fa67,standards.nyc,available,31.99,31.99,medium,low,9,namesilo,,,27/09/2026 22:53
 65c7b127-10e9-4f6a-8a6d-2eeb22b8d6c4,hiring.nyc,premium,6900,29.5,high,low,6,namesilo,,,28/09/2026 08:27
-38ef6c01-5e49-406f-bb77-9c3ba9ef505c,fallow.nyc,available,6.98,43.98,medium,low,6,namecheap,,,17/08/2026 21:32
+38ef6c01-5e49-406f-bb77-9c3ba9ef505c,fallow.nyc,available,6.98,43.98,high,low,6,namecheap,,,17/08/2026 21:32
 806a0be8-8e20-400f-8be5-469c2acb7218,correspondent.nyc,available,26.26,26.26,medium,low,13,porkbun,,,29/09/2026 03:16
 9b8ac8f2-2990-4960-90dd-70e89e6d5838,labile.nyc,available,6.98,43.98,medium,low,6,namecheap,,,22/08/2026 17:32
 35dd2b6e-4249-4459-9d1d-39b252c77a8b,tumid.nyc,available,6.98,43.98,medium,low,5,namecheap,,,10/08/2026 18:05
@@ -905,7 +986,7 @@ ed6752a3-babd-40ba-9644-4f03b9fdf0dd,wuhan.nyc,available,31.99,31.99,high,low,5,
 ddbf9d5a-9afe-44d5-8475-9f3265ad5af4,altaic.nyc,available,31.99,31.99,medium,low,6,namesilo,,,
 09eac685-7c42-4f5c-b9cd-39e3b8abcad3,belonged.nyc,available,31.99,31.99,medium,low,8,namesilo,,,27/09/2026 10:31
 5d4b746a-64f6-4c48-9ba0-e7ba574087b6,prudential.nyc,available,31.99,31.99,high,medium,10,namesilo,,,09/09/2026 04:48
-d4bfea9f-7f8b-4f86-acea-1d80d0f34c8a,waldo.nyc,available,31.99,31.99,medium,low,5,namesilo,,,27/09/2026 20:38
+d4bfea9f-7f8b-4f86-acea-1d80d0f34c8a,waldo.nyc,available,31.99,31.99,high,low,5,namesilo,,,27/09/2026 20:38
 e70255a6-7d29-4991-896f-28b0ab42842d,offer.nyc,premium,1107,29.5,high,low,5,namesilo,,,23/09/2026 13:36
 d05b81e8-016e-4e90-9ad7-c3c6104f0f2b,twoscore.nyc,available,31.99,31.99,medium,low,8,namesilo,,,
 6b16b38e-3ac1-45f7-8e6a-39cbfb31fc23,coiled.nyc,available,6.98,43.98,medium,low,6,namecheap,,,12/08/2026 16:07
@@ -916,86 +997,5 @@ d05b81e8-016e-4e90-9ad7-c3c6104f0f2b,twoscore.nyc,available,31.99,31.99,medium,l
 33b85056-9213-47f3-a207-7453167e574f,periodical.nyc,available,31.99,31.99,high,low,10,namesilo,,,08/09/2026 17:13
 dbe7be86-ec31-44dd-9b33-1c5c2296cb74,endoergic.nyc,available,6.98,43.98,medium,low,9,namecheap,,,17/08/2026 01:08
 0b601fcd-a5e7-40d0-a095-119e116988f3,astaire.nyc,available,31.99,31.99,medium,low,7,namesilo,,,20/09/2026 16:54
-ecac18b4-a7c2-4089-a7cf-bad9d7809034,itchy.nyc,available,6.98,43.98,medium,low,5,namecheap,,,05/08/2026 20:43
+ecac18b4-a7c2-4089-a7cf-bad9d7809034,itchy.nyc,available,6.98,43.98,high,low,5,namecheap,,,05/08/2026 20:43
 a3b6ecc2-a652-48a6-bc75-48d0258de836,histrionic.nyc,available,6.98,43.98,medium,low,10,namecheap,,,21/08/2026 09:57
-45b4a93a-8269-4045-ad4a-788a86915812,forested.nyc,available,6.98,43.98,medium,low,8,namecheap,,,18/08/2026 11:43
-05424ce2-40b3-4f71-a930-17d2d8cd7f08,arranger.nyc,available,31.99,31.99,high,low,8,namesilo,,,17/09/2026 06:29
-1c870b31-944c-49c5-ba60-f336ef8e610e,untagged.nyc,available,31.99,31.99,medium,low,8,namesilo,,,12/09/2026 14:35
-3fc53bd5-d9a9-4159-99b8-eaee0b5d52b4,baguet.nyc,available,32.98,43.98,medium,low,6,namecheap,,,21/09/2026 18:30
-fbcb30d7-c983-4940-b380-44f6117c0dc6,anzac.nyc,available,31.99,31.99,medium,low,5,namesilo,,,19/09/2026 16:00
-591ac95c-cc51-4043-b008-b9f6268c4258,boondocks.nyc,available,31.99,31.99,medium,low,9,namesilo,,,21/09/2026 14:32
-e35b07d5-d774-4f63-8691-a7a815d85cfb,mussy.nyc,available,6.98,43.98,medium,low,5,namecheap,,,24/08/2026 21:24
-80d9741b-3918-46e3-a989-1a2f1509e1b9,spelling.nyc,available,26.26,26.26,high,low,8,porkbun,,,28/09/2026 03:07
-b13d8558-4716-4c16-bfbe-a108aaa454ec,insanity.nyc,available,49.99,49.99,high,low,8,godaddy,,,28/09/2026 02:09
-d457be05-5ed0-41d2-b196-911c4bea3bb8,malthusian.nyc,available,6.98,43.98,medium,low,10,namecheap,,,24/08/2026 14:17
-93311895-7510-4efa-9dd8-b3d4f0dba694,aided.nyc,available,32.98,43.98,high,low,5,namecheap,,,19/09/2026 12:43
-1186ebbe-c9d4-4c4c-b1e4-33d00e12fc4a,pithy.nyc,available,31.99,31.99,high,low,5,namesilo,,,19/09/2026 23:01
-b3ae408a-c95a-4cab-8c79-d264d4d3a90a,anthyllis.nyc,available,31.99,31.99,medium,low,9,namesilo,,,19/09/2026 14:04
-d4188c5e-7c38-43d7-a479-e50c25e2acd5,heartthrob.nyc,available,31.99,31.99,high,low,10,namesilo,,,
-e6138fcc-55a5-48ca-91d1-3ac60f4f1be0,amide.nyc,available,32.98,43.98,medium,low,5,namecheap,,,18/09/2026 21:35
-484599dc-ccca-43dd-b866-f4467024c862,mention.nyc,available,31.99,31.99,high,low,7,namesilo,,,
-0e4f07fa-c781-456d-a20f-de4c836ecd1c,orchid.nyc,available,26.26,26.26,high,low,6,porkbun,,,28/09/2026 20:03
-f4e13023-2970-4381-a0ae-0d74d294910d,precooked.nyc,available,31.99,31.99,high,medium,9,namesilo,,,09/09/2026 01:17
-41daea62-53ca-43bf-bf6a-467cc91074e9,pamper.nyc,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 00:06
-31b99741-56d6-4851-a890-bdb85b5cffd0,rowland.nyc,available,31.99,31.99,high,low,7,namesilo,,,25/09/2026 15:13
-05ea5973-2a79-4810-af13-d41c64859a87,vicennial.nyc,available,31.99,31.99,medium,low,9,namesilo,,,13/09/2026 05:23
-8d06c605-7239-4c60-afc3-8b9e2b69f0a5,aberdare.nyc,available,31.99,31.99,medium,low,8,namesilo,,,16/09/2026 15:08
-fd8e7390-cd21-436d-b716-549078dc9130,bantu.nyc,available,6.98,43.98,medium,low,5,namecheap,,,08/08/2026 14:50
-9b19967c-8dc2-423c-bfa6-3fcce7452cb3,lgbtq.nyc,premium,6250,,high,low,5,name.com,,,
-447d0c49-7f08-49a0-8e1a-ed559906438c,handicapped.nyc,available,31.99,31.99,medium,low,11,namesilo,,,29/09/2026 03:14
-020d2f66-354b-44a4-adaa-e12008d43f75,barilla.nyc,available,31.99,31.99,high,medium,7,namesilo,,,22/09/2026 05:52
-0f5b1c4b-c96d-4662-bb38-4d2fcb85f1e7,narrator.nyc,available,32.98,43.98,high,low,8,namecheap,,,27/09/2026 04:49
-a297e230-63fa-477a-8875-0d837dd097f6,pan.nyc,premium,1107,29.5,high,low,3,namesilo,,,
-feac0347-79ce-4ca6-8b76-9cd5816d968c,imbecile.nyc,available,6.98,43.98,medium,low,8,namecheap,,,21/08/2026 20:22
-bb24a025-9f61-427f-ad80-f042de9a6da2,righteous.nyc,available,26.08,26.08,high,low,9,spaceship,,,27/09/2026 15:12
-9bc395b5-4c98-4820-b479-315550c543ca,downsizing.nyc,available,32.98,43.98,medium,low,10,namecheap,,,24/09/2026 23:41
-62d141e1-c2bc-480e-9eb8-570122712a30,salient.nyc,available,31.99,31.99,high,low,7,namesilo,,,09/09/2026 03:09
-187f44ad-7829-4250-a979-3354232dc1d4,velar.nyc,available,31.99,31.99,medium,low,5,namesilo,,,13/09/2026 01:59
-d2478068-950a-4f58-bbe8-fd01af909c82,hagen.nyc,available,32.98,43.98,high,low,5,namecheap,,,27/09/2026 20:14
-3e87b04e-e28b-40d4-b0b3-eb311012db40,counseled.nyc,available,31.99,31.99,medium,low,9,namesilo,,,20/09/2026 16:45
-7d7e0475-9305-48f3-9c61-0e96d2a5fd7c,numerate.nyc,available,9.99,46.99,medium,low,8,name.com,,,03/09/2026 22:56
-2b9a3c14-8910-4d69-a29c-689b892f850a,permitted.nyc,available,31.99,31.99,high,low,9,namesilo,,,
-1aa84824-3273-4183-97d4-2bf53e250e52,morgue.nyc,available,6.98,43.98,medium,low,6,namecheap,,,25/08/2026 06:42
-c4a4160c-7c70-4fef-800d-bce8fc4054c1,presumable.nyc,available,31.99,31.99,high,medium,10,namesilo,,,09/09/2026 01:45
-34691836-71e6-41eb-837a-c9cfd237a816,unstoppable.nyc,available,43.98,,high,low,11,namecheap,,,
-23f2f947-5cea-4953-b724-6673de4c04d6,sudanese.nyc,available,31.99,31.99,high,low,8,namesilo,,,11/09/2026 01:05
-ec724524-6977-4357-9be7-afeb703d9550,colorize.nyc,available,6.98,43.98,medium,low,8,namecheap,,,12/08/2026 17:34
-cd15138f-aa37-4c85-abb6-7b64c8a69cb2,tubed.nyc,available,32.98,43.98,medium,low,5,namecheap,,,11/09/2026 20:56
-e95e3855-40be-4dc6-95b6-8dae9d863b06,inimitable.nyc,available,6.98,43.98,high,low,10,namecheap,,,22/08/2026 05:23
-60ffe9af-e26a-4491-9f36-946eeb7c5265,opaline.nyc,available,31.99,31.99,medium,low,7,namesilo,,,04/09/2026 15:45
-a46bba6a-94c6-425f-98c0-a266fa8bf160,tracing.nyc,available,31.99,31.99,high,low,7,namesilo,,,
-dc3aea8d-14b1-4957-8560-84f077f5d523,exemplary.nyc,available,32.98,43.98,high,low,9,namecheap,,,21/09/2026 18:58
-01a05dbd-276a-47c2-98cd-fd1d40466bd3,workshop.nyc,premium,6500,32.5,high,low,8,namecheap,,,28/09/2026 11:07
-c3e23313-93bb-4542-9497-40bab2ba485b,lentic.nyc,available,6.98,43.98,medium,low,6,namecheap,,,22/08/2026 23:50
-680e8621-3919-4c7e-b6e3-ff3ef7858b23,eviscerate.nyc,available,6.98,43.98,medium,low,10,namecheap,,,17/08/2026 15:10
-6eae1304-cffc-46be-ac35-9a509e1b9bbd,carribean.nyc,available,31.99,31.99,high,low,9,namesilo,,,
-bb20805a-be5d-4336-8026-d1956874be81,pitted.nyc,available,31.99,31.99,medium,low,6,namesilo,,,
-17dd4f96-fccc-4ff0-9c96-8683cb52235e,patti.nyc,available,31.99,31.99,medium,low,5,namesilo,,,28/09/2026 12:07
-1b6f5fb8-3e71-4a1f-b984-336a6b7a9170,ruritanian.nyc,available,32.98,43.98,medium,low,10,namecheap,,,09/09/2026 19:43
-b20a8edb-cdc4-4da7-9e5c-3c2a9dab0b3b,painkiller.nyc,available,31.99,31.99,medium,low,10,namesilo,,,
-3e20980e-f64f-4732-84ae-2af90cf6397c,dissolved.nyc,available,6.98,43.98,medium,low,9,namecheap,,,14/08/2026 12:56
-6381d81f-abaa-4344-b78f-93c3e559a8c7,drugs.nyc,premium,3450,29.5,medium,low,5,namesilo,,,25/09/2026 16:42
-0d22aa66-3263-4ca8-8408-6f2981bb4299,axil.nyc,available,31.99,31.99,high,low,4,namesilo,,,21/09/2026 10:22
-898bd85d-2f78-4620-8395-849bd99d501c,dagger.nyc,available,32.98,43.98,high,low,6,namecheap,,,24/09/2026 20:52
-dbbe39db-8756-4677-908d-f49407c2dafb,moisture.nyc,available,31.99,31.99,high,low,8,namesilo,,,13/09/2026 11:06
-1420a86a-d0b1-45d5-a8de-6742eea76aab,aconcagua.nyc,available,31.99,31.99,medium,low,9,namesilo,,,17/09/2026 02:04
-9f7691e9-0a78-42a5-9fc7-21804805c91e,speckled.nyc,available,6.98,43.98,medium,low,8,namecheap,,,14/08/2026 16:34
-ddf874b1-e8b4-4978-8e9c-a14103f14c88,bearable.nyc,available,6.98,43.98,medium,low,8,namecheap,,,09/08/2026 04:27
-b54acc85-33e7-4dc1-8625-227d9d5e1492,bipartisan.nyc,available,6.98,43.98,high,low,10,namecheap,,,10/08/2026 04:32
-0f7b2728-ccce-40fa-a763-63138341142e,seraphical.nyc,available,31.99,31.99,medium,low,10,namesilo,,,10/09/2026 04:31
-909adca5-8dd4-46a3-a96f-90ab04bb724c,arugula.nyc,available,31.99,31.99,medium,low,7,namesilo,,,20/09/2026 12:10
-1de5d4f8-39b5-449e-8fb2-39bedf5903fe,riemann.nyc,available,31.99,31.99,high,low,7,namesilo,,,23/09/2026 09:54
-318214ee-1db0-4b92-aebc-c6ac1d321ee6,anybody.nyc,available,43.98,,medium,low,7,namecheap,,,
-03a23e11-70d4-4951-ad9f-61c4ae532cc0,funds.nyc,premium,6250,,high,low,5,name.com,,,
-fed4f757-748b-40b5-bb76-0912ca577eaa,accused.nyc,available,31.99,31.99,medium,low,7,namesilo,,,28/09/2026 17:31
-e3ea6b2a-5818-41bf-8751-499f77d9ee72,indian.nyc,premium,6900,29.5,high,low,6,namesilo,,,22/09/2026 04:13
-a46155ca-5be6-42aa-8b11-b1415670a069,propitious.nyc,available,31.99,31.99,high,low,10,namesilo,,,09/09/2026 03:38
-80855733-f05f-4345-9f83-0ca2d3fd4319,nebulose.nyc,available,6.98,43.98,medium,low,8,namecheap,,,12/08/2026 12:43
-fe88614a-08e0-41a1-968a-a5d9b23d6338,composure.nyc,available,6.98,43.98,high,low,9,namecheap,,,11/08/2026 14:55
-0fb62444-7de1-495d-9ff2-ba360d8127d7,paraplegic.nyc,available,31.99,31.99,medium,low,10,namesilo,,,08/09/2026 01:10
-6cb544f1-6809-4d4c-a491-ecb8814575db,wrought.nyc,available,6.98,43.98,medium,low,7,namecheap,,,25/08/2026 03:48
-8c4f03e4-9dd3-41af-801a-d842a75ae05c,damnable.nyc,available,43.99,46.99,medium,low,8,name.com,,,13/08/2026 16:29
-6b41eb65-6534-4fe3-b725-c52e37917c73,palo.nyc,available,31.99,31.99,medium,low,4,namesilo,,,27/09/2026 01:51
-c50a5e91-4a7d-4253-85eb-5394a357b6e4,karpov.nyc,available,31.99,31.99,high,low,6,namesilo,,,19/09/2026 03:27
-dc16890b-d9fb-4acb-bae1-aec55077b1de,ahab.nyc,available,32.98,43.98,medium,low,4,namecheap,,,17/09/2026 20:17
-bb91280b-ce66-4867-a6bd-8db18a444053,massachusetts.nyc,available,31.99,31.99,medium,low,13,namesilo,,,28/09/2026 11:48

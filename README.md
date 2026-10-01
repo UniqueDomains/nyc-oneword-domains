@@ -1,10 +1,10 @@
-# Available .NYC One-Word Domains (24,718)
+# Available .NYC One-Word Domains (26,765)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C718%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C765%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .nyc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,718 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,765 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,718 domains · **Median ask:** $149.02 · **High-demand under $2,500:** 18
+**Public extract:** 1,000 rows · **Live catalog:** 26,765 domains · **Median ask:** $145.54 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/nyc`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| she.nyc     | available | $31.99    | $31.99        | high           | low    | 3      | namesilo                 |
+| she.nyc     | available | $26.08    | $26.08        | high           | low    | 3      | spaceship                |
 | css.nyc     | resell    | —         | —             | high           | medium | 3      | —                        |
 | abs.nyc     | premium   | $640      | $29.50        | high           | low    | 3      | namesilo                 |
 | afar.nyc    | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo                 |
@@ -79,10 +79,10 @@ print(df.head())
 | alky.nyc    | available | $31.99    | $31.99        | medium         | low    | 4      | namesilo                 |
 | smoked.nyc  | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC         |
 | ass.nyc     | premium   | $625      | $46.99        | high           | low    | 3      | name.com                 |
-| anal.nyc    | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                 |
+| appl.nyc    | available | $26.08    | $26.08        | high           | low    | 4      | spaceship                |
 | strong.nyc  | resell    | —         | —             | high           | low    | 6      | Hello Internet Corp.     |
 | azo.nyc     | premium   | $625      | $46.99        | high           | low    | 3      | name.com                 |
-| appl.nyc    | available | $26.08    | $26.08        | high           | low    | 4      | spaceship                |
+| ashe.nyc    | available | $31.99    | $31.99        | high           | low    | 4      | namesilo                 |
 | greater.nyc | resell    | —         | —             | high           | low    | 7      | Go Australia Domains Inc |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,718 live domains                        |
+| 1,000-row public sample | 26,765 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 18 high-demand names under $2,500          |
+| Basic exported fields   | 22 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NYC One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
